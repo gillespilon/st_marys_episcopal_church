@@ -1,0 +1,509 @@
+% YouTube
+
+I am unable to remove the existing YouTube account because the person who managed it has left the church, and the login was done with their phone and password. Is it possible to create a new YouTube account for the church with only an email (as user ID) and a password?
+
+Since the previous manager’s login is tied to their personal phone and you cannot get the verification code, you are effectively "locked out" of that specific account.
+
+To answer your question: Yes, you can create a new account, but there is a major "catch" regarding phone numbers that you should know before you start.
+
+The Reality of Creating a New Account
+While you can create a Google account using just an email address and password, Google almost always requires a phone number for "Identity Verification" during the signup process to prevent bot creation.
+
+The Good News: You can usually use your own personal mobile number to "verify" the creation of the church's account. Using your number for the initial text code does not permanently link your personal life to the church account.
+
+The Recommendation: Once the account is created, you should immediately go into the security settings and add a "Recovery Email" (perhaps a general church office email) so that if you ever lose your phone, the church doesn't lose the account again.
+
+A Better Long-Term Solution: Google for Nonprofits
+Since you are representing St. Mary's Episcopal Church, I highly recommend that you don't just create a "basic" Gmail account. Instead, look into Google for Nonprofits.
+
+Why this is better for a church:
+
+Ownership: The account belongs to the church entity, not a specific person's phone.
+
+Professionalism: You can have an email like media@stmarysbonita.org instead of stmarysbonita@gmail.com.
+
+Advanced Features: You get "YouTube Nonprofit" status, which allows for better fundraising tools and "Link Anywhere" cards in your videos.
+
+How to Remove the Old Account (Without Logging In)
+If the official's account is still appearing in your browser's "list of accounts" and it's bothering you, you can remove it from your view without needing his password:
+
+Go to YouTube.com.
+
+Click the profile icon in the top right.
+
+Select Sign out. (If you have multiple accounts, select Sign out of all accounts).
+
+Now, click the Sign In button.
+
+You will see the list of "Choose an account." Click the button at the bottom that says "Remove an account."
+
+Click the red minus sign next to the official's account. It will disappear from your device forever.
+
+Your Next Step
+If you want to start fresh today, try creating a new Google account at accounts.google.com.
+
+Would you like me to provide a list of the specific information you'll need to gather (like tax ID or official name) to apply for the "Google for Nonprofits" status later on?
+
+Does a YouTube account cost anything if the church is not a nonprofit?
+
+Starting a YouTube channel is completely free, whether the church has official nonprofit status or not. You do not have to pay a subscription fee, a "hosting" fee, or a registration fee to Google to host your videos or livestream.
+
+Since you are considering starting fresh, here is a breakdown of how the costs (or lack thereof) actually work for a church:
+
+1. The Channel Itself ($0)
+Creating a Google account and a YouTube channel costs nothing. You get:
+
+Unlimited video uploads (up to 12 hours long per video).
+
+Live streaming capabilities (once you verify the account with a phone number).
+
+Analytics to see who is watching.
+
+2. The Difference Without "Nonprofit" Status
+If you just create a "regular" account instead of a "Nonprofit" one, the main things you miss out on are fundraising tools:
+
+The "Donate" Button: Verified nonprofits can have a button directly on the video for tithes/offerings. Without it, you’ll just need to put a link to your church's giving page in the video description.
+
+Link-Anywhere Cards: Nonprofits can put clickable links to their own website anywhere in the video. Regular channels have to reach certain "partner" milestones (subscribers and watch hours) before they can do this.
+
+Ad-Free Viewing: Neither account type makes your videos "ad-free" for your viewers. YouTube may still show ads unless the viewer has YouTube Premium.
+
+3. Verification is Key (Still Free)
+To unlock features like livestreaming and custom thumbnails (which you'll definitely want for Sunday services), Google will ask you to "verify" the channel.
+
+This is a one-time step where they text a code to a mobile phone.
+
+It does not cost money, but it is the reason you ran into trouble with the previous manager—the account was likely "locked" to his phone for this verification.
+
+4. Hidden Costs (Equipment)
+While the platform is free, your actual costs will be in the hardware. Since you’re in Bonita Springs, you might already have what you need or can find it locally:
+
+Camera: Most churches start with a smartphone or a dedicated camcorder.
+
+Internet: A stable upload speed is required for streaming services.
+
+Licensing: This is the most important "cost." To legally stream music (hymns, choir, etc.), you usually need a CCLI Streaming License. This isn't a YouTube fee, but a copyright fee to ensure the songwriters are paid.
+
+Since you are in a transition phase, would you like me to help you draft a simple "Standard Operating Procedure" (SOP)? This would be a document for the church records so that if you ever hand the channel to someone else, they won't get locked out like you did.
+
+yes
+
+Building a new channel for St. Mary's Episcopal Church is a great way to ensure the church has full control moving forward. Since you are in Bonita Springs, you have the advantage of being able to coordinate with the church office easily if you need to use a church-owned phone for verification.
+
+Here is a draft of a Standard Operating Procedure (SOP) that you can print out and keep in the church's physical files. This ensures that even if you move on in a few years, the next person won't face the same "lockout" issue you just did.
+
+SOP: St. Mary’s Episcopal Church YouTube Management
+1. Account Ownership & Identity
+The "Primary" Login: The channel should be created as a Brand Account. This is different from a personal account because it allows multiple people to log in with their own personal Gmails to manage it.
+
+The Master Email: Create a dedicated church email (e.g., media@stmarysbonita.org or stmarysbonita@gmail.com).
+
+Password: [Store this in the church's secure password manager or a locked physical safe].
+
+Recovery Info: * Recovery Email: Set this to the Rector's or Parish Administrator’s official church email.
+
+Recovery Phone: Set this to a permanent church landline (if it accepts texts) or the Parish Administrator’s mobile—never a temporary volunteer's personal phone.
+
+2. Management Access (The "Golden Rule")
+Never share the Master Password. Instead, use the Permissions feature:
+
+Log in to the Master Account.
+
+Go to YouTube Studio > Settings > Permissions.
+
+Invite the current Media Manager (Gilles Pilon) as a Manager.
+
+If the Media Manager leaves, the Primary Owner simply clicks "Remove Access" and invites the next person.
+
+3. Verification & Livestreaming
+One-Time Verification: To enable livestreams and custom thumbnails, go to Settings > Channel > Feature Eligibility.
+
+Action: Use a phone that is physically present at the church to receive the one-time SMS code.
+
+4. Legal & Music Licensing
+CCLI License: Before any music is played on a livestream, ensure the church's CCLI Streaming License number is active.
+
+Reporting: Include the license number in the "Description" box of every Sunday service video to prevent automatic "Copyright Strikes" from YouTube.
+
+Why this matters for St. Mary's
+By following this, you are effectively "future-proofing" the ministry. If someone leaves the church under difficult circumstances or just loses their phone, the Parish Administrator still holds the "Master Key" (the recovery email) and can reset the access without losing the channel's subscribers or video history.
+
+Would you like me to help you create the step-by-step instructions for the church office to apply for "Google for Nonprofits" status next?
+
+yes
+
+Applying for "Google for Nonprofits" is the single best move for St. Mary's Episcopal Church. It moves the channel away from being a "volunteer's personal project" and into a permanent church asset.
+
+Since the IRS automatically considers churches tax-exempt, Google requires a slightly different verification process than for a standard 501(c)(3).
+
+Step 1: Preparation (What you need from the Office)
+Before you sit down at the computer, ask the Parish Administrator for these three items:
+
+Employer Identification Number (EIN): Also known as the Federal Tax ID.
+
+IRS Determination Letter: Since many Episcopal churches fall under a "Group Exemption," you may need the letter for the national church and a page from the official Episcopal Church Directory showing St. Mary's is an active parish.
+
+The Church Website: Ensure the website footer includes the church's legal name and address exactly as it appears on official documents.
+
+Step 2: The Application Process (2026 Edition)
+Google uses a third-party partner called Goodstack (formerly TechSoup/Percent) to verify that you are a real church.
+
+Create the "Master" Account: Go to [google.com/nonprofits](https://www.google.com/nonprofits/) and click "Get Started." Sign in with a new church-owned email (e.g., stmarysbonita@gmail.com).
+
+Submit to Goodstack: The system will prompt you to enter your EIN.
+
+Note: If St. Mary's isn't listed individually, select "Group Exemption" and upload the church directory page mentioned in Step 1.
+
+Wait for the Email: Verification usually takes 2–14 business days. Keep an eye on the inbox (and spam folder) for an email from verifications@mail.goodstack.org.
+
+Step 3: Activating the YouTube Benefits
+Once Goodstack approves you, log back into the Google for Nonprofits portal to "Activate" your specific products:
+
+YouTube Nonprofit Program: You will need your Channel ID (found in your YouTube Studio settings). This unlocks the "Donate" button and link-sharing features.
+
+Google Workspace (Optional but Recommended): This gives the church free professional emails (like office@stmarysbonita.org) and 30GB of Cloud storage for church documents.
+
+Google Ad Grants: This is the big one—it provides up to $10,000 per month in free search advertising to help people in Bonita Springs find your services or events.
+
+Why this solves your "Lockout" problem
+Once this is set up, you will be the Administrator of the nonprofit account. You can then go to the YouTube settings and add your own personal Gmail as a "Manager."
+
+If you ever lose your phone, the Rector or Parish Admin can log into the Nonprofit Portal and reset your access. You'll never be at the mercy of a single person's phone number again.
+
+Would you like me to help you find the specific Channel ID for St. Mary's so you have it ready for the application?
+
+yes
+
+To get the "Google for Nonprofits" application moving, you’ll need a specific 24-character string that identifies the church's channel to Google's internal systems. This is different from the @stmarys... handle.
+
+For the channel you provided (@stmarysepiscopalchurchboni3993), the YouTube Channel ID is:
+
+UCeeFfhMcJa1kjtfZAGskOCA
+
+Where to Use This
+When you are filling out the Google for Nonprofits application:
+
+Look for the section asking for "YouTube Channel ID" or "Product Activation."
+
+Paste the code above into that field.
+
+Google will then "link" your nonprofit status to that specific video library.
+
+How to Double-Check (For your records)
+If you ever need to find this ID for another channel in the future, here is a quick "hack" you can do without needing to log in:
+
+Go to the Church's YouTube page.
+
+Right-click anywhere on the background and select View Page Source.
+
+Press Ctrl+F (or Cmd+F on Mac) and search for the word channelid.
+
+The string starting with UC right next to it is your ID.
+
+What’s Next?
+Since you are now at the stage of "waiting for codes" and gathering church documents, the next step is usually the physical setup of the stream once you have the account back.
+
+Would you like me to help you create a "Sunday Morning Checklist" for your volunteers? It would cover things like checking the CCLI license, setting the video title, and starting the live feed so nothing gets missed in the Sunday morning rush.
+
+If our videos are live streamed to our website (and thus to YouTube), and then the videos are archived with a link on our website, will advertisements still be inserted? (Our current setup uses Vimeo and no ads are inserted).
+
+Moving from Vimeo to YouTube is a common way for churches to save on monthly fees, but you are correct to be concerned about the "user experience." In 2026, YouTube has become much more aggressive with ads, and the rules are different than what you are used to with Vimeo.
+
+Here is the breakdown of how ads will work in your specific setup:
+
+1. Will ads be inserted? Yes, likely. Unlike Vimeo (where you pay a fee to keep the player ad-free), YouTube is a "free" service that pays for its servers by showing ads. The Default: Even if you do not "monetize" your channel (meaning you don't want to earn money from the ads), YouTube reserves the right to show ads on your videos to cover their hosting costs. The "Embedded" Rule: When you put a YouTube video on the St. Mary's website, viewers may see an ad before the video starts (pre-roll) or "overlay" ads (banners) at the bottom.
+
+2. The "Copyright" Trigger (Very Important for Churches) This is the most common reason church videos get ads. If your service includes copyrighted music (hymns, choir performances, or recorded tracks), YouTube’s "Content ID" system will automatically detect it. What happens: The music publisher (the company that owns the rights to the hymn) will likely place a "claim" on your video. The result: They won't take the video down, but they will force ads to play on your video so they can collect the revenue. You cannot turn these ads off, even if you are a nonprofit.
+
+3. Can you stop the ads? There is no "button" to pay YouTube to remove ads from your embedded player like there is on Vimeo. However, you can minimize the "clutter" by using a specific type of embed code. When your web developer puts the link on the site, they should use the "Modest Branding" and "No-Cookie" options. This won't 100% guarantee no ads, but it makes the player look much cleaner and more professional.
+
+Comparison: YouTube vs. your current Vimeo setup
+Feature	Vimeo (Current)	YouTube (New)
+Cost	Monthly/Annual Fee	$0 (Free)
+Ads	None	Possible (Pre-roll/Overlays)
+Discovery	Hard to find (hidden)	High (Shows up in Google searches)
+Storage	Limited by your plan	Unlimited
+At the end...	Ends on a clean frame	May show "Related Videos"
+
+My Recommendation for St. Mary's
+- Since your goal is a professional, ad-free experience on your website:
+- Use YouTube for Reach: Post your sermons and highlights there so people in Bonita Springs can find you via Google.
+- Check your Licensing: Ensure your CCLI Streaming License number is in every video description. This doesn't always stop the ads, but it proves you have the right to play the music.
+- The "Hybrid" Approach: If the church budget allows, some churches keep a "Basic" Vimeo account just for the website embed (to keep it clean) and use the free YouTube account for "social media" and discovery.
+
+Would you like me to write a short "Pros and Cons" list that you can present to the church board to help them decide between staying with Vimeo or switching fully to YouTube?
+
+If vMix is livestreaming to our website (and thus to YouTube), will parishioners see ads during the live stream?
+
+Since you are using vMix to send your stream to YouTube, you have a high degree of technical control, but the "ad-free" experience your parishioners currently enjoy on Vimeo is harder to guarantee on YouTube.
+
+Here is the reality of what your parishioners will see when they watch your live stream on the church website:
+
+1. The "Pre-Roll" Ad (The Most Likely). Even if your channel is not "monetized," YouTube's current terms (as of 2026) allow them to run ads on any video to cover their hosting costs. The Experience: When a parishioner clicks "Play" on your website, they may see a 5–15 second ad before the service begins. The Exception: If a parishioner pays for YouTube Premium on their personal Google account, they will not see ads, even when watching the video embedded on your website.
+
+2. Mid-Stream Ads (The "Interrupt"). The good news is that YouTube does not automatically insert "mid-roll" ads into live streams unless you (the operator) specifically tell it to. In vMix: As long as you don't click a "Trigger Ad" button in your streaming software or the YouTube Live Control Room, the service will not be interrupted once it has started. The Risk: If you play copyrighted music (like a recorded track or even some specific choir arrangements), YouTube's "Content ID" might flag the stream. While they rarely stop a live church stream for this, they might force an ad to play at the very end or on the archived version.
+
+3. The "Archived" Experience. Once the live stream is over and becomes a "Video on Demand" (VOD) on your site: YouTube is much more likely to insert ads into these archived videos. Unlike Vimeo, which keeps these clean, YouTube treats these like any other video on their platform.
+
+Comparison: The Viewer's Experience
+Feature	Current (Vimeo)	New (YouTube)
+Start of Service	Instant play.	Possible 5–15s advertisement.
+During Service	No interruptions.	No interruptions (unless flagged for music).
+End of Service	Clean finish.	May show "Suggested Videos" from other churches.
+Mobile Viewing	Easy and clean.	Often requires the YouTube app for the best experience.
+How to minimize ads for St. Mary's:
+Nonprofit Status: While this doesn't "turn off" ads, it gives you better standing to dispute music claims that might trigger ads.
+
+Embed Settings: When you get the "Embed Code" for your website, use the privacy-enhanced mode (the URL will look like youtube-nocookie.com). This reduces the "creepy" targeted ads and often results in a cleaner start for the viewer.
+
+The "Pre-Service" Loop: Start your vMix stream 5–10 minutes early with a "Welcome" slide and background music. This way, if an ad plays, it happens while people are still "finding their seats" online, rather than during the opening prayer.
+
+Would you like me to show you how to set up a "Privacy Enhanced" embed code for your webmaster to use?
+
+I’ve just watched two videos from the Pawley’s Island (South Carolina) Episcopal Church. One video was over an hour long. There were no ads. How can this be?
+
+It is understandable why that would be surprising! When you see a long church service on YouTube with zero interruptions, it usually isn’t luck—it is a combination of specific settings and how the church handles their music.
+
+Here is how Holy Cross Faith Memorial (and other savvy churches) achieves that ad-free experience:
+
+1. They are "Non-Monetized". Even though YouTube can show ads on any video, they generally prioritize them for channels that have "opted-in" to make money. Many churches explicitly choose not to join the YouTube Partner Program. By staying non-monetized, they aren't asking YouTube to place "Mid-roll" ads (the ones that interrupt the sermon).
+
+2. They "Clean" Their Music. This is the biggest secret. As we discussed earlier, if a church plays a recorded CD or a specific copyrighted arrangement, YouTube’s "Content ID" system automatically places ads on the video so the record label can get paid. The Pawley's Island Strategy: They likely use "Public Domain" hymns or have a choir/organist playing original arrangements that haven't been "fingerprinted" by a major record label. If the music isn't flagged, YouTube has no "legal" obligation to force an ad onto that specific video.
+
+3. Your Own "Viewer" Experience. There is a high probability that you didn't see ads because of your own setup: Ad-Blockers: If you are using a browser like Brave or have an extension like uBlock Origin, you won't see ads on any video, regardless of the church's settings. YouTube Premium: If you are logged into a Google account that pays for Premium, the ads are stripped away automatically. Embedded Players: Some churches use "Privacy Enhanced" links on their websites which, while not a guarantee, often result in a much cleaner, ad-lite start for the viewer.
+
+4. The "Length" Loophole. YouTube is actually less likely to put a random ad in the middle of a 60-minute "Live Stream" than they are on a 10-minute "Viral Video." As long as the church operator doesn't manually trigger an ad break in the control room, the stream usually remains a continuous, sacred space.
+
+What this means for St. Mary's:
+
+- You can absolutely achieve this same result! If you:
+    - Apply for the Nonprofit Program (to prove you are a church).
+    - Stick to live music (choir/organ) rather than playing recorded tracks.
+    - Keep "Monetization" turned OFF in your settings.
+
+...then the vast majority of your parishioners in Bonita Springs will have the same uninterrupted experience you saw with the Pawley's Island videos.
+
+Would you like me to help you find a "Public Domain" music resource? This is a great way to ensure your choir's music never triggers an automatic ad.
+
+It's been a few days since we discussed this. I met with our rector and my team. His first choice is that we have a youtube channel that has some monetization. He wonders if we can select ads (say one per episode) and have it occur at the very beginning of the broadcast. He is not concerned that the monetization would be small. He is concerned that we can select an advertisement that is appropriate for a church. Is this possible?
+
+It is helpful that your rector and team are thinking about the balance between sustainability and the "sacred space" of the broadcast. Since you’re navigating this for the church, there is some good news and some specific technical "walls" you’ll hit with YouTube’s system in 2026.
+
+Here is the breakdown of what is actually possible:
+
+1. Can we select specific ads? (The Short Answer: No). YouTube does not allow creators to hand-pick specific ads (like "I want the local bakery ad, not the car insurance ad"). The "Black Box": Google uses an automated auction. The ad that plays is determined by the viewer’s own search history and the "keywords" of your video (e.g., "church," "sermon," "Bonita Springs"). The "Appropriate" Control: While you can't pick the good ads, you can block the "bad" ones. In your YouTube Studio "Ad Review Center," you can block entire categories that might be inappropriate for a church, such as: Politics or Religion (ironically, to prevent other groups from "preaching" on your channel) Social Issues / Sensitive Topics Specific competitors or offensive products
+
+2. Can we limit it to "One Ad at the Beginning"?. Yes, this is very doable. This is the best way to satisfy the rector's request for a "monetized but respectful" experience. Pre-Roll Ads: You can enable "Pre-roll" ads. This means the ad plays before the video starts. Most parishioners accept this as the "cost of entry" for free high-quality video. Disabling Mid-Rolls: This is the most important step for a church. You must manually uncheck the box for "Mid-roll ads." This ensures that the service is never interrupted during the sermon or prayers. Disabling Post-Rolls: You can also turn off "Post-roll" ads so that the service ends in silence or with your own graphics, rather than a loud commercial.
+
+3. The "vMix" Live Stream Advantage. Since you are using vMix, you have a unique advantage. vMix allows you to "start" your stream 5-10 minutes early with a "holding slide" (e.g., "Service begins at 10:00 AM"). If a parishioner joins during this time, the "Pre-roll" ad plays while the holding slide is up.
+By the time the Rector stands up to speak, the "ad window" for that viewer has already passed.
+
+Summary Checklist for the Rector
+If the team decides to move forward with this "Light Monetization" plan, here is the setup I recommend:
+
+Feature	Setting	Result
+Pre-roll Ads	ON	Plays once before the service starts.
+Mid-roll Ads	OFF	Guarantees no interruptions during the service.
+Ad Categories	FILTERED	You block "Sensitive Categories" in the Google Ad Center.
+Monetization	ENABLED	The church earns a small amount (pennies per view).
+A Tip for "Appropriate" Ads
+To help YouTube choose "church-appropriate" ads, make sure the Video Description includes your church’s name, the scripture readings, and your website. The more "wholesome" keywords the algorithm sees, the more likely it is to serve neutral, family-friendly ads (like travel, household goods, or local services).
+
+Would you like me to walk you through how to find the "Sensitive Category Blocking" menu in your new account? It's a bit buried, but it’s the key to making the Rector feel safe about the content.
+
+Not yet. I need to create a youtube acount for this. Initially I will be uploading historical videos of previous services and would need the same restriction. If this is also possible, then my questions are "how do I get an account set up?" and "how do I add outher 'managers' to the account so I am not the only one?
+
+Setting up the account as a Brand Account is the most important step. A Brand Account allows multiple people to manage the channel using their own personal emails, so the church never loses access if one person leaves.
+
+1. How to Set Up the Church Account. Since you want to keep this separate from your personal life, follow these steps to create the "Master" login for the church: Step 1: Create a Google Account for the Church. Go to accounts.google.com and select "For work or my business." Use a church-owned email address if possible. Note: You will still need a phone number for the initial verification code, but you can change this to a church landline or a different mobile later. Step 2: Create the YouTube Channel. Once logged in, go to YouTube.com. Click your profile icon > Settings > Create a new channel. Step 3: Name it. Enter the church’s name (e.g., "St. Mary's Episcopal Church - Bonita Springs"). This creates the Brand Account.
+2. How to Add Other "Managers". Once the channel is created, you should immediately add at least one other person (like the Rector or Parish Admin) so you aren't the sole "keyholder."  Go to YouTube Studio. On the left-hand sidebar, click Settings (the gear icon at the bottom).  Click Permissions. Click Invite in the top right. Enter the email address of the person you want to add. Select a Role: Manager: Can add/remove others and edit everything (Best for you and the Rector). Editor: Can upload and edit videos but cannot delete the channel or manage users (Best for other volunteers). Click Done and then Save. They will receive an email invitation they must accept.
+3. Handling Historical Videos & Monetization. You mentioned wanting the same "no mid-roll" restriction for your older videos. There is one catch regarding monetization that you should explain to the Rector: The Milestone Rule: In 2026, new channels cannot turn on monetization immediately. You generally need 1,000 subscribers and 4,000 hours of watch time before YouTube allows you to earn money or control the ads. Until then: YouTube may still show ads on your videos, but you won't have the controls to turn them off or filter them until you hit those milestones. Once Eligible: For every historical video you upload, you will go to the "Monetization" tab in YouTube Studio. You must Uncheck the box that says "Show mid-roll ads during my video." This will force the ad to play only at the very beginning. A Note for Your Process Since you are starting with historical videos, it’s a great time to practice your Metadata Strategy. In the "Description" box for each video, type out the date of the service and the name of the preacher. This helps parishioners find specific services and tells the YouTube algorithm that your content is "Religious/Educational," which helps it select more appropriate ads once you are eligible for monetization.
+
+Would you like me to create a "Welcome" template for your video descriptions that includes the necessary church info and CCLI license placeholder?
+
+Not yet. I need to pass this information to my team and request their feedback and decision.
+
+Understood. It sounds like you have a solid plan to present. To help you give the team the most complete picture, here is a summary of the 2026 YouTube landscape and the specific management steps you discussed.
+
+1. The Monetization "Ladder" (2026 Requirements). It is important to manage the Rector's expectations regarding when monetization can begin. YouTube has a two-tier system for new channels: The First Milestone (Early Access): 500 Subscribers + 3,000 Watch Hours. This allows for "Fan Funding" (like tipping), but not standard video ads. The Full Monetization Milestone: 1,000 Subscribers + 4,000 Watch Hours. This is when you can turn on the "Pre-roll" ads the Rector is interested in and begin filtering categories.
+2. Safeguarding Access (The "Brand Account" Strategy)
+This is the most critical point for your team. You want to avoid the "personal phone lockout" situation ever happening again. One Ownership, Many Logins: By setting this up as a Brand Account, you remain the "Primary Owner," but you can invite the Rector and the Parish Administrator as "Managers." No Shared Passwords: They use their own email and password to log in. If a volunteer leaves the team, you simply click "Remove" on their name in the settings, and they instantly lose access without you needing to change the master password.
+3. Controlling the Content. The team should know that for both new and historical videos: You control the placement: You can strictly enforce "Pre-roll only." You control the "Vibe": Once the channel is monetized, you can use the Ad Review Center to block political, religious-competitor, or sensitive ads. Suggested Feedback Questions for your Team: To help drive their decision, you might ask them: "Who should be the three 'Key Holders' with Manager access?" (Usually the Rector, the Media Lead, and a long-term staff member). "Do we want to set a 'Monetization Goal'?" (Since it takes time to reach the 1,000 subscriber mark, will the church focus on a subscription drive during the Sunday announcements?). "What is our policy for 'Sensitive Categories'?" (Are there specific types of ads, like dating apps or political campaigns, the church wants to officially whitelist or blacklist?). I'll be here whenever you're ready to proceed with the technical setup or if the team has specific "What if?" questions. There is one more question. A previous parishioner, now departed for several years, set up a YouTube account bu with her cell phone. We are unable to contact her to get her to delete the account or add us as managers. Will I be able to create a new account that would be for the same church? This is a very common situation for organizations, and the short answer is: Yes, you can absolutely create a new account. YouTube does not limit how many channels can represent a specific physical location or entity. Because the old account is tied to a personal cell phone and you cannot reach the owner, it is essentially "abandoned property" in the eyes of Google. You are not required to delete the old one before starting the new one.
+
+## Consider re old account
+
+Here is the strategic way to handle this so the new account becomes the "Official" one:
+
+1. The "Clean Slate" Strategy. Since you cannot delete the old account, the goal is to make it irrelevant. Duplicate Content is Fine: You can upload the same historical videos to the new channel. YouTube’s systems are generally smart enough to recognize a "re-upload" by the same organization. Update the "About" Section: On your new channel, clearly state in the description: "This is the official YouTube channel for St. Mary’s Episcopal Church, Bonita Springs." Update Your Links: Ensure the church website, Facebook page, and email signatures all point to the new URL immediately.
+2. Can you get the old one taken down? Unless the old channel is violating a specific trademark (which is rare for a church), Google typically won't delete an account just because you've lost the password. The "Reporting" Option: If the old channel has incorrect or embarrassing information, you can use the "Report" flag on the channel and select "Impersonation" (claiming it is pretending to be your church). This is a long shot, but it is an option if the old content is a problem. Recommendation: Most churches just leave the old one alone. Eventually, the new channel will outrank the old one in Google search results because you are posting fresh content.
+3. Setting Up the "Succession Plan" (Adding Managers). To prevent this from happening a third time, you will set up the new channel as a Brand Account. This is the specific technical step that allows for multiple "keys" to the house. How to add your team once the account is created: Log in to the Master Account you created for the church. Go to YouTube Studio. Click Settings (gear icon) on the left. Click Permissions. Click Invite and add the personal Gmail addresses of your team (e.g., the Rector and the Parish Admin). Assign Roles: Primary Owner: This should be the church's master email address. Manager: This should be you and the Rector. This role can do everything except delete the entire channel. Editor: This is for volunteers who only need to upload videos but shouldn't have the power to change settings.
+
+Summary for your Team. When you meet with them, you can tell them:
+
+- "We are going to start fresh. The old account is effectively gone because it was tied to a personal phone number. By creating a 'Brand Account' now, we are creating a permanent church asset where the Rector, the Office, and I all have our own keys. No single person’s phone or departure will ever lock us out again."
+- Would you like me to draft a quick "Internal Handover" document? This would be a simple page where the church can record which emails have "Manager" access, so they have it for their permanent records.
+
+yes
+
+Since you are preparing to present this to your team, having a clear "Succession & Access Plan" is the best way to reassure the Rector that the church will never be locked out again.
+
+Below is a template you can use for your internal records once the new account is live.
+
+Internal Record: St. Mary’s YouTube Management
+Date Created: [Date]
+Official Channel URL: [Insert Link Once Created]
+
+1. The "Master" Key (Primary Owner). The Primary Owner is the "legal" entity that owns the channel. This should be a church-owned Google account, not a personal one. Master Account Email: [e.g., media@stmarysbonita.org] Recovery Phone: [Church Office Landline or Rector's Mobile] Recovery Email: [Rector’s Official Email]
+2. The Management Team (Individual Access). The following people have been added as Managers via their own personal emails. They do not know the master password; they log in with their own credentials.
+
+    Name	Role	Access Level	Responsibilities
+    Gilles Pilon	Manager	High	Technical setup, vMix streaming, uploads.
+    [Rector Name]	Manager	High	Oversight, metadata approval, emergency access.
+    [Admin Name]	Manager	High	Secondary backup for account recovery.
+    [Volunteer]	Editor	Medium	Uploading historical videos, simple edits.
+
+3. Verification & Security Protocol. Two-Factor Authentication (2FA): Enabled on all Manager accounts. Annual Audit: Every January, the Media Lead will review the Permissions list and remove anyone who is no longer active in the ministry. The "7-Day Rule": Google requires a 7-day waiting period after adding a new Owner before they can be promoted to "Primary Owner." This is a security feature to prevent hacks. Key Talking Points for your Meeting: When you hand this over to the team, here are the three points that will likely matter most to them: "No More Hostage Accounts": Because we are using a Brand Account, even if I (Gilles) am unavailable, the Rector and the Office have their own independent "keys" to the channel. We will never have to track down a former parishioner’s cell phone again. Privacy & Safety: We can add volunteers as "Editors" so they can help with the work, but they won't have the power to delete the channel or change the church’s banking/monetization info. Clean Handover: If I ever step down from this role, I don't have to give the church my personal password. I simply help the Rector promote the next person to "Manager" and then I remove myself. Would you like me to help you draft the specific "Welcome" email you'll send to the Rector and Admin when you invite them to be Managers? This can help explain to them exactly what they need to click to accept the role.
+
+OK, the rector and team have met. We have decided to go with a non-profit YouTube channel. Just to be sure, with this channel there is no monetization and there are no advertisements. Is this correct? Is there anything else I should be aware of before we proceed?
+
+That is a great decision. Choosing the Nonprofit route is the most sustainable "official" path for the church. However, there is a very important distinction to clarify with the Rector so he isn't surprised later.
+
+1. The "No Ads" Misconception. Crucial Point: Being a "Nonprofit Channel" does not automatically make your videos ad-free for viewers. YouTube’s Ownership: YouTube is a "free" hosting service. Even for nonprofits, they reserve the right to run ads on any video to pay for their servers. The Difference: On a regular channel, you have almost no control until you are big. On a Nonprofit channel, you have the "moral authority" and better tools to manage your channel, but you still cannot simply check a box that says "Turn off all ads for everyone." Parishioner Experience: Most of your parishioners will still see a short "Pre-roll" ad before the service starts, unless they personally pay for YouTube Premium.
+2. Can you avoid ads entirely?. If the Rector’s absolute priority is zero ads, YouTube is actually a difficult place to be. To truly get an ad-free experience like you have now with Vimeo, you would have to: Keep "Monetization" OFF: This tells YouTube you aren't trying to make money, which sometimes reduces ad frequency (but doesn't eliminate it). Monitor Music Claims: As we discussed, if the choir sings a copyrighted arrangement, the publisher will force ads onto your video to collect royalties. Stick to public domain hymns or original arrangements to keep the "ad-bots" away.
+3. What you DO get with the Nonprofit Program. While it doesn't solve the "ad problem" 100%, the benefits are still massive: YouTube Giving: You can add a "Donate" button directly to your live streams. Link Anywhere: You can put a clickable link to the St. Mary's website inside your video—something regular channels can't do until they have thousands of subscribers. Google Ad Grants: This is the "hidden gem." You can get up to $10,000 per month in free search ads to show your church's website to people in Bonita Springs searching for things like "churches near me."
+
+What to be aware of before you start:
+
+- The "Goodstack" Wait: The verification through Goodstack/Percent takes 2–14 business days. Don't plan a "Grand Launch" for next Sunday until you get that approval email.
+- The Master Account: Ensure the church office (not a volunteer) creates the initial Google account. You want the recovery phone number to be the church office phone.
+- Permissions: Once you have the account, the first thing you should do is go to Settings > Permissions and add yourself and the Rector as "Managers." This prevents the "lockout" issue you faced before.
+
+My Recommendation
+
+Go ahead with the Google for Nonprofits application. It gives you the highest level of respect from Google’s support team. Just make sure the Rector knows that "Free for the Church" usually means "Ads for the Viewer" in the YouTube world.
+
+Would you like the specific link to the "Goodstack" verification page to give to the Parish Administrator? This is usually where churches get stuck.
+
+Yes, I would. One more question. Will the ads for the viewer always be at the beginning? And another question. Will these ads be appropriate for a church channel?
+
+This decision marks a significant step toward a stable, official digital presence for St. Mary's. To ensure you and the Rector are fully prepared for the "Nonprofit" experience in 2026, here is the clear breakdown of how ads and appropriateness work.
+
+1. Will ads always be at the beginning? Mostly, yes—if you set it up correctly. While YouTube "In-Stream" ads can technically appear at the beginning (pre-roll), middle (mid-roll), or end (post-roll), you have the power to restrict them:
+- Mid-Rolls (The Interruptions): As the channel owner, you can turn off mid-roll ads for every video you upload. This ensures that once the service starts, it is never interrupted.
+- Pre-Rolls (The Opening): Most ads will occur at the very beginning. This is common across YouTube. A 5–15 second ad plays, and then the viewer is taken to the stream.
+- The "Holding Slide" Hack: Since you are using vMix, start your stream 5 minutes early with a "Welcome to St. Mary's" slide and quiet background music. If an ad plays, it happens while people are "arriving" in the digital pew, not during the opening hymn.
+2. Will ads be appropriate for a church? By default, Google uses its standard "Family Friendly" algorithm, but you can go much further to protect the church's brand. Content Filtering: Once your nonprofit account is verified, you can access the "Ad Review Center" in your linked Google Ads account. Here, you can block specific "Sensitive Categories" that you feel are inappropriate for St. Mary's, such as: Politics & Social Issues Dating & Relationships Gambling or Alcohol Specific Competitors (e.g., you can block other denominations' ads if you wish) The Algorithm Factor: YouTube's AI tries to match the ad to the content. Because your videos will be tagged as "Religious," "Episcopal," and "Church Service," the system is naturally incentivized to show "neutral" ads like household goods, travel, or local services rather than anything shocking.
+3. The Path Forward: Goodstack Verification. This is the "Golden Key" for your Parish Administrator. They need to go here to start the process: The Link: Google for Nonprofits - Get Started (The site will automatically redirect them to the Goodstack/Percent verification portal during the process.) What the Administrator needs to know: Select the "Church" category: Even if you don't have a 501(c)(3) letter (as many churches fall under group exemptions), they can use the church's EIN and a page from the official Episcopal Church Directory. The Wait: Remind them it takes 2–14 business days. The Confirmation: Once they get the "Congratulations" email, they must log back into the Google for Nonprofits portal and click "Activate" under the YouTube section.
+
+One Final Warning for 2026
+
+Since you are starting a new channel, YouTube may not allow you to "manage" ads (including blocking categories) until you hit the "Advanced Features" verification. This usually just requires a quick photo ID check or a 30-second "video verification" of your face. I recommend you do this immediately after creating the account so you don't have to wait.
+
+Would you like me to draft a one-page "Checklist for the Parish Administrator" that you can simply print and hand to them? This would include the EIN, the Goodstack link, and the specific documents they need to have ready.
+
+Yes, please provide a checklist for the parish administrator. This should include the link to start the process and all required info to be gathered.
+
+Below is a ready-to-print checklist for the Parish Administrator. This includes the direct link and the specific documentation required for an Episcopal church operating under a group exemption.
+
+# Creating our non-profit YouTube account
+
+1. The Starting Point. The Parish Administrator should go to the following link to begin the application: [google.com/nonprofits](https://www.google.com/nonprofits/). Crucial: Sign in with a church-owned Google account (e.g., office@stmarysbonita.org or a dedicated stmarysbonita@gmail.com). Do not use a personal account, as this person becomes the "Primary Owner."
+
+2. Information to Gather. The administrator will need the following details ready to enter into the portal:
+
+- Employer Identification Number (EIN): The church’s 9-digit Federal Tax ID.
+- Official Legal Name: Must match the IRS records exactly.
+- Physical Address: Must match the address on official tax documents.
+- Church Website URL: Ensure the website footer displays the church’s legal name and EIN.
+3. Required Documentation (Group Exemption). Because most Episcopal churches do not have an individual IRS 501(c)(3) letter, Google's verification partner (Goodstack) will require proof of "Group Exemption." Please have the following PDFs ready:
+
+- The Group Exemption Letter: A copy of the IRS letter issued to the National Episcopal Church (DFMS) or the Diocese of Southwest Florida confirming the group tax-exempt status.
+- Proof of Affiliation: A recent page from the Official Episcopal Church Directory (Red Book) showing St. Mary’s, Bonita Springs, as an active parish in good standing.
+- Bank-Issued Document: A PDF of a recent church bank statement (financial figures can be redacted) that shows the Church’s Legal Name and Address. This verifies the organization is currently active.
+- EIN Verification Letter (Optional but Recommended): The original CP575 or LTR 147C letter from the IRS (the document that originally assigned the EIN).
+
+4. The Verification Timeline
+
+- Submission: Once the form is submitted, the application goes to Goodstack.
+- Email Monitoring: The administrator should watch for emails from verifications@mail.goodstack.org. They may ask for a "Letter of Authorization" signed by the Rector.
+- Approval: Verification usually takes 2–14 business days.
+
+5. Final Step: Product Activation
+
+- Once approved, the administrator must log back into the Google for Nonprofits dashboard to officially "Activate" the YouTube Nonprofit Program.
+- Required Info: They will ask for the YouTube Channel ID: UCeeFfhMcJa1kjtfZAGskOCA
+- Note to Administrator: All documents must be uploaded as original electronic PDFs. Scanned copies or photos of documents are often rejected by the automated verification system.
+
+Once the non-profit YouTube account is created, how do I add additional managers to protect ourselves from only one person having an account?
+
+To ensure the church is fully protected, you will use a feature called "YouTube Studio Permissions." This is the modern, secure way to add "keys" to the account without sharing the master password.
+
+Because you are setting this up as a Brand Account (which is a requirement for YouTube Nonprofit), you can have multiple people log in with their own personal Google accounts to manage the church's channel.
+
+## Step-by-Step: Adding Managers
+
+- Sign In: Log in to the new church account and go to [studio.youtube.com](https://studio.youtube.com).
+- Open Settings: On the left-hand menu, click the Settings (gear icon) at the very bottom.
+- Permissions: Click the Permissions tab on the left.
+- Invite: Click the blue Invite button at the top right.
+- Enter Details:
+- Email: Enter the personal email address of the person you want to add (e.g., the Rector or Parish Admin).
+- Access: Select Manager.
+- Save: Click Done and then Save.
+- Note: YouTube will ask you to verify your identity (usually via a code to the master account's phone) before it saves the changes.
+
+## Understanding the Roles (Which to Choose?)
+
+For the best protection of St. Mary’s, I recommend the following "Rule of Three":
+
+- Manager (Highest Level): Give this to yourself and the Rector. Capabilities: Can add/remove other managers, upload/delete videos, and change all channel details.
+- Editor (Middle Level): Give this to reliable volunteers. Capabilities: Can upload videos and edit descriptions, but cannot add/remove users or delete the channel.
+- Viewer (Lowest Level): Give this to a church board member who wants to see the "Analytics" (how many people are watching) but shouldn't be able to change anything.
+
+## The "Primary Owner" Safety Net
+
+- The email address the Parish Administrator uses to create the account will be the Primary Owner.
+- Wait Period: If you ever need to change the "Primary Owner" (for example, if the church office changes its main email address), YouTube has a 7-day security delay.
+- The Benefit: This delay prevents a hacker from instantly stealing the channel, as the existing owner will receive an alert and can stop the transfer.
+
+## Final "Future-Proofing" Tip
+
+- Every January, make it a habit to open this Permissions menu. If a volunteer has moved away or a staff member has retired, remove their access immediately. This keeps the "digital doors" of St. Mary's locked and secure.
+- Since you'll be handling the tech, would you like me to explain how to switch between your personal YouTube account and the Church account so you don't accidentally post a personal video to the church channel?
+- Because you will be a Manager on the church’s Brand Account, you can switch between your personal YouTube world and the church’s channel instantly—without ever having to log out or remember a second password.  Here is how to navigate this smoothly on your computer and phone.
+
+## On Desktop (The "Pro" Method)
+
+When you are working in your browser, the top-right corner is your control center.
+
+1. The Avatar Check: Always look at the small circular profile picture in the top-right. If it’s your photo, you are "yourself." If it’s the St. Mary’s logo, you are the "Church."
+2. To Switch: Click your profile picture and select Switch account.
+3. The List: A menu will slide out showing your personal name and the "St. Mary's Episcopal Church" channel. Just click the church name to "become" the church.
+4. Confirming: Once you switch, any video you upload or comment you leave will be under the church’s name.
+
+Pro-Tip: If you use Google Chrome, you can create a separate "Browser Profile" just for Church work. This keeps your church bookmarks and history completely separate from your personal ones.
+
+## On the YouTube Mobile App
+
+The mobile app is very efficient for checking comments or starting a quick "mobile" stream.
+
+1. Tap your Profile: Tap the "You" tab or your profile icon at the bottom right of the app.
+2. Switch Account: Tap the Switch Account button (it usually has a small arrow next to it).
+3. Select the Church: Tap the church's channel from the list. The app will refresh, and the church logo will now appear in the corner.
+
+## A Critical Rule for vMix
+
+Since you are using vMix to livestream:
+
+1. When you set up the "Streaming" destination in vMix, it will ask you to log in to Google.
+2. Crucial Step: After you log in with your email, Google will ask: "Which account do you want to use?"
+3. Always select the Church Brand Account, not your personal name. If you select your name by mistake, you will accidentally broadcast the Sunday service to your personal friends and family instead of the church’s subscribers!
+
+## Summary of the "Safety Check"
+
+Before you hit "Go Live" or "Publish," just ask yourself: "Whose face is in the top right corner?
+
+- "Gilles' Face: Personal time.
+- St. Mary's Logo: Church time.
+
+You're all set! You have the plan for the Rector, the checklist for the Admin, and the technical "guardrails" for yourself. I'm here if you hit any snags during the Goodstack verification process.
