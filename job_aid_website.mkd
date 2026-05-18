@@ -1,0 +1,36 @@
+% Job aid---website
+
+# In brevi
+
+St. Mary's Episcopal Church uses Wordpress to design, update, and manage its website. 
+
+# Contents
+
+- [Login](#login)
+- [Wordpress dashboard](#wordpress-dashboard)
+- [References](#references)
+- [Support](#support)
+
+# Login
+
+- In your web browser, navigate to the [website login page](https://www.stmarysbonita.org/atidash/?loggedout=true&wp_lang=en_US).
+- Enter your user ID and password.
+- You will be directed to the [Wordpress Dashboard](#wordpress-dashboard).
+
+
+# Wordpress dashboard
+
+TBD
+
+# Examples
+
+TBD
+
+# References
+
+- [St. Mary's Episcopal Church website](https://www.stmarysbonita.org/)
+- [website login page](https://www.stmarysbonita.org/atidash/?loggedout=true&wp_lang=en_US)
+
+# Support
+
+gillespilon13@gmail.com
