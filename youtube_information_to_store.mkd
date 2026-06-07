@@ -1,9 +1,18 @@
 % YouTube account information
 
+# Church
+
+- user ID is wVb_oy0lQmXWX3nrCVR-4g
+- channel ID is UCwVb_oy0lQmXWX3nrCVR-4g
+- stream key is u3qe-scf6-jdd1-seuv-cvsp to be used only in VMix.
+
+# Gilles Pilon
+
 - user ID is EdYROkbubI1S_XX63tzrxA
 - channel ID is UCEdYROkbubI1S_XX63tzrxA
 - unique ID including channel ID is https://www.youtube.com/channel/UCwVb_oy0lQmXWX3nrCVR-4g
-- stream key is u3qe-scf6-jdd1-seuv-cvsp to be used only in VMix.
+
+# Miscellaneous
 
 https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName&directionType=ForwardList&searchNameOrder=STMARYSEPISCOPALCHURCHBONITASP%207445310&aggregateId=domnp-744531-d50a054e-0b74-4bf4-b27e-9a094f28cf8c&searchTerm=ST%20MARYS%20CHRISTIAN%20WESLEYAN&listNameOrder=STMARYSEDUCATIONALINSTITUTEATC%20F030000001140
 
