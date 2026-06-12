@@ -529,10 +529,6 @@ Extract from mp4 video from time 00:00:00 to 00:03:24 and save as audio.
 
 St. Mary's has a nonprofit [YouTube channel](https://www.youtube.com/@stmarysbonita). This channel is managed by Fr. Ryan Wright, Ian Mitchell, Joanna Wragg, and Gilles Pilon. Videos are automatically saved after streaming. The [church website](https://www.stmarysbonita.org/) only shows a live stream video. All other videos are archived on the [YouTube channel](https://www.youtube.com/@stmarysbonita). Content on the channel is managed using [studio.youtube.com](https://studio.youtube.com).
 
-## Preparing for a live stream a day or more in advance
-
-- [log into studio.youtube.com](https://studio.youtube.com)
-
 ## Uploading a video manually
 
 - Go to [youtube.com/channel_switcher](https://https://youtube.com/channel_switcher) and click on the St. Mary's channel
@@ -575,6 +571,24 @@ St. Mary's has a nonprofit [YouTube channel](https://www.youtube.com/@stmarysbon
 - Visibility: <span style="color:red; font-weight:bold">Public</span>
 - Schedule: Select a date, time, and time zone (<span style="color:red; font-weight:bold">local</span>)
 - <span style="color:lightcoral; font-weight:bold">Schedule</span>. Select a date and time.
+
+## Preparing for a live stream a day or more in advance
+
+- Log into [https://studio.youtube.com](https://studio.youtube.com).
+- In the upper right corner of the screen you should see our church icon. Click on the icon, click on <span style="color:lightcoral; font-weight:bold">Switch account</span> and ensure you are on the `St. Mary's Episcopal Church` account.
+- This should take you to the `Channel dashboard.`
+- There are three icons in the upper right corner. Click on the middle icon, the <span style="color:lightcoral; font-weight:bold">Go live</span> icon.
+- This should take you to the `Manage` page. If not, click on the <span style="color:lightcoral; font-weight:bold">Manage</span> icon on the left side.
+- tbd
+
+## Analytics
+
+- Log into [https://studio.youtube.com](https://studio.youtube.com).
+- In the upper right corner of the screen you should see our church icon. Click on the icon, click on <span style="color:lightcoral; font-weight:bold">Switch account</span> and ensure you are on the `St. Mary's Episcopal Church` account.
+- This should take you to the `Channel dashboard.`
+- Click on <span style="color:lightcoral; font-weight:bold">Analytics</span> on the left side.
+- This should take you to the `Channel analytics.`
+- There are four clickable tabs at the top of the window: <span style="color:lightcoral; font-weight:bold">Overview</span>, <span style="color:lightcoral; font-weight:bold">Content</span>, <span style="color:lightcoral; font-weight:bold">Audience</span>, and <span style="color:lightcoral; font-weight:bold">Trends</span>.
 
 # References
 
