@@ -46,7 +46,7 @@ This job aid serves to guide to set up and be ready to live stream. With a modes
 
 ## Audio cabinet
 
-- The tall cabinet on the left side of the room is the sanctuary control system for the sound.
+- The tall cabinet in the room is the sanctuary sound control system.
 - Ensure it is on.
 - **Do not touch any controls inside this cabinet.**
 
@@ -96,7 +96,7 @@ This job aid serves to guide to set up and be ready to live stream. With a modes
 
 <img src="../fot/gear_icon_eleven.png" alt="gear icon for preset 11" width="400">
 
-- In the input/output window, left column, select PTZ.
+- In the input/output window, left column, press on <span style="color:lightcoral; font-weight:bold">PTZ</span>.
 
 <img src="../fot/ptz.png" alt="select PTZ" width="400">
 
@@ -135,16 +135,17 @@ This job aid serves to guide to set up and be ready to live stream. With a modes
 
 # Begin audio and video streaming
 
-- click on the Stream button; the button bar turns red
-- click on the Record button; it will have a red STREAM2 & REC button by top preview
-- the FADE button is used to transition between camera 1 and camera 2
-- the active camera is on the right with a green bar
-- the other camera preview is on the left with an amber bar
+- Click on the Stream button; the button bar turns red
+- Click on the Record button; it will have a red STREAM2 & REC button by top preview
+- The FADE button is used to transition between camera 1 and camera 2
+- The active camera is on the right with a green bar
+- The other camera preview is on the left with an amber bar
+- If the streaming stops for any reason, do not restart it because of how YouTube is set up. Change the file name in the record button (if it has stopped) and restart recording only, not streaming.
 
 # Cameras
 
-- camera 1 is at the left side of the main aisle, near the front, and points to the right lectern, the organist, and the choir.
-- camera 2 is at the back of the church and points up the center aisle.
+- Camera 1 is at the left side of the main aisle, near the front, and points to the right lectern, the organist, and the choir.
+- Camera 2 is at the back of the church and points up the center aisle.
 
 # Microphones
 
@@ -529,9 +530,15 @@ Extract from mp4 video from time 00:00:00 to 00:03:24 and save as audio.
 
 St. Mary's has a nonprofit [YouTube channel](https://www.youtube.com/@stmarysbonita). This channel is managed by Fr. Ryan Wright, Ian Mitchell, Joanna Wragg, and Gilles Pilon. Videos are automatically saved after streaming. The [church website](https://www.stmarysbonita.org/) only shows a live stream video. All other videos are archived on the [YouTube channel](https://www.youtube.com/@stmarysbonita). Content on the channel is managed using [studio.youtube.com](https://studio.youtube.com).
 
+- Log into [https://studio.youtube.com](https://studio.youtube.com).
+- In the upper right corner of the screen you should see our church icon. Click on the icon, click on <span style="color:lightcoral; font-weight:bold">Switch account</span> and ensure you are on the `St. Mary's Episcopal Church` account.
+- This should take you to the `Channel dashboard.`
+
 ## Uploading a video manually
 
-- Go to [youtube.com/channel_switcher](https://https://youtube.com/channel_switcher) and click on the St. Mary's channel
+- Log into [https://studio.youtube.com](https://studio.youtube.com).
+- In the upper right corner of the screen you should see our church icon. Click on the icon, click on <span style="color:lightcoral; font-weight:bold">Switch account</span> and ensure you are on the `St. Mary's Episcopal Church` account.
+- This should take you to the `Channel dashboard.`
 - In the top right corner, <span style="color:lightcoral; font-weight:bold">Create</span> and <span style="color:red; font-weight:bold">Upload videos</span> and <span style="color:red; font-weight:bold">Select files</span>
 - Navigate to the file you wish to upload. Select it and <span style="color:lightcoral; font-weight:bold">Open</span>
 - Title: <span style="color:blue; font-weight:bold">May 17, 2026 10:00 Holy Eucharist Rite II</span>
