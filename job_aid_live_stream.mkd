@@ -2,11 +2,11 @@
 
 # In brevi
 
-Live streaming is the streaming of video or audio, or both, in real time or near real time. While often referred to simply as streaming, the real-time nature of live streaming differentiates it from other non live broadcast forms of streamed media such as video on demand, video logs, and video sharing platforms such as [YouTube](https://youtube.com/).
+Live streaming is the transmission of video or audio, or both, in real time or near real time to the internet. While often referred to simply as streaming, the real-time nature of live streaming differentiates it from other non live broadcast forms of streamed media such as video on demand, video logs, and video sharing platforms such as [YouTube](https://youtube.com/).
 
-St. Mary's Church Bonita Springs uses audio equipment, video cameras, audio mixing hardware, and various software programs to create a live stream of the Holy Eucharist and its many forms. Our videos are available on our [YouTube channel](https://www.youtube.com/@stmarysbonita).
+St. Mary's Church Bonita Springs uses professional audio equipment, video cameras, audio mixing hardware, and various software programs to create a live stream of the Holy Eucharist in its many forms. Our videos are available on our [YouTube channel](https://www.youtube.com/@stmarysbonita).
 
-This job aid serves to guide to set up and be ready to live stream. With a modest amount of instruction, anyone can do this.
+This job aid serves to set up and be ready to live stream on our [YouTube channel](https://www.youtube.com/@stmarysbonita).
 
 # Contents
 
@@ -18,14 +18,14 @@ This job aid serves to guide to set up and be ready to live stream. With a modes
 - [Begin audio and video streaming](#begin-audio-and-video-streaming)
 - [Cameras](#cameras)
 - [Microphones](#microphones)
-- [Correct left preview screen setting](#correct-left-preview-screen-setting)
+- [Set up left preview screen](#set-up-left-preview-screen)
 - [Camera control for right preview](#camera-control-for-right-preview-screen)
 - [Holy Eucharist schedule](#holy-eucharist-schedule)
 - [End the streaming and the recording](#end-the-streaming-and-the-recording)
 - [Presets](#presets)
 - [Add an external camera](#add-an-external-camera)
 - [Downloading a church video to a computer](#downloading-a-church-video-to-a-computer)
-- [Extracting audio, video, or both from a portion of a downloaded church video](#extracting-audio-video-or-both-from-a-portion-of-a-downloaded-church-video)
+- [Extracting audio and video from a church video](#extracting-audio-and-video-from-a-church-video
 - [Automatic computer drive backup](#automatic-computer-drive-backup)
 - [Archiving old videos to make room on the hard drive](#archiving-old-videos-to-make-room-on-the-hard-drive)
 - [YouTube](#youtube)
@@ -47,14 +47,14 @@ This job aid serves to guide to set up and be ready to live stream. With a modes
 ## Audio cabinet
 
 - The tall cabinet in the room is the sanctuary sound control system.
-- Ensure it is on.
-- **Do not touch any controls inside this cabinet.**
 
 ![audio cabinet](../fot/audio_cabinet.png)
 
-- If the audio equipment inside the cabinet is not on, <span style="color:lightcoral; font-weight:bold">FlickSilverToggleSwitch</span> on the outside left side of the cabinet.
+- Flick up the <span style="color:lightcoral; font-weight:bold">ToggleSwitch</span> on the outside left side of the cabinet if the system is not on.
 
 ![silver toggle switch](../fot/silver_toggle_switch.png)
+
+- **Do not touch any controls inside this cabinet.**
 
 ## Streaming desk
 
@@ -70,7 +70,7 @@ This job aid serves to guide to set up and be ready to live stream. With a modes
 
 ![meters input button](../fot/meters_input_button.png)
 
-- Press the <span style="color:lightcoral; font-weight:bold">SilverPowerButton</span> at the top on the front of the computer.
+- Press the <span style="color:lightcoral; font-weight:bold">PowerButton</span> at the top on the front of the computer.
 
 ![computer power button](../fot/computer_power_button.png)
 
@@ -84,10 +84,10 @@ This job aid serves to guide to set up and be ready to live stream. With a modes
 
 - Double click the <span style="color:lightcoral; font-weight:bold">vMix (x64)</span> icon on the left side of the screen.
 - At the top of the screen, click the <span style="color:lightcoral; font-weight:bold">DownArrow</span> to the right of the <span style="color:lightcoral; font-weight:bold">OpenButton</span> and select the <span style="color:#FF0000; font-weight:bold">Preset Setup IV.vmix</span>.
-- At the top of the screen, click the <span style="color:lightcoral; font-weight:bold">MaximizeIcon</span>, the second icon from the right. This should make everything smaller. Click and drag the window to the left edge of the screen. Resize so that the window touches the top, left, and bottom edges of the screen.
 
 ![select Preset Setup IV.vmix](../fot/preset_setup.png)
 
+- At the top of the screen, click the <span style="color:lightcoral; font-weight:bold">MaximizeIcon</span>, the second icon from the right. This should make everything smaller. Click and drag the window to the left edge of the screen. Resize so that the window touches the top, left, and bottom edges of the screen.
 - You should see this:
 
 ![screen_after_preset_setup](../fot/preset_setup_result.png)
@@ -96,7 +96,7 @@ This job aid serves to guide to set up and be ready to live stream. With a modes
 
 <img src="../fot/gear_icon_eleven.png" alt="gear icon for preset 11" width="400">
 
-- In the input/output window, left column, press on <span style="color:lightcoral; font-weight:bold">PTZ</span>.
+- In the input/output window, left column, click on <span style="color:lightcoral; font-weight:bold">PTZ</span>.
 
 <img src="../fot/ptz.png" alt="select PTZ" width="400">
 
@@ -109,7 +109,7 @@ This job aid serves to guide to set up and be ready to live stream. With a modes
 
 # Set the recording settings
 
-<span style="color:orange; font-weight:bold">ToDo: take photos of the various setup actions</span>
+<span style="color: red; font-weight: bold;">TODO</span> take photos of the various setup actions</span>
 
 - At the bottom, click on the Gear icon next to the Record button.
 
@@ -123,10 +123,10 @@ This job aid serves to guide to set up and be ready to live stream. With a modes
 
 # Set the title banner
 
-<span style="color:orange; font-weight:bold">ToDo: take photos of the various setup actions</span>
+<span style="color: red; font-weight: bold;">TODO</span> take photos of the various setup actions</span>
 
 - Right click anywhere in the #10 preset window.
-- Choose "Title Editor".
+- Choose <span style="color:red; font-weight:bold">Title Editor</span>.
 - Change the date.
 - Click the x in the upper right corner to close the window.
 - Click on the small box "1" at the bottom of the #10 preset window to turn on the overlay for the right preview window with the green bar.
@@ -135,11 +135,11 @@ This job aid serves to guide to set up and be ready to live stream. With a modes
 
 # Begin audio and video streaming
 
-- Click on the Stream button; the button bar turns red
-- Click on the Record button; it will have a red STREAM2 & REC button by top preview
-- The FADE button is used to transition between camera 1 and camera 2
-- The active camera is on the right with a green bar
-- The other camera preview is on the left with an amber bar
+- Click on the <span style="color:red; font-weight:bold">StreamButton</span>; the button bar turns red.
+- Click on the <span style="color:red; font-weight:bold">RecordButton</span>; it will have a red STREAM2 & REC button by top preview.
+- The FADE button is used to transition between camera 1 and camera 2.
+- The active camera is on the right with a green bar.
+- The other camera preview is on the left with an amber bar.
 - If the streaming stops for any reason, do not restart it because of how YouTube is set up. Change the file name in the record button (if it has stopped) and restart recording only, not streaming.
 
 # Cameras
@@ -149,10 +149,10 @@ This job aid serves to guide to set up and be ready to live stream. With a modes
 
 # Microphones
 
-- Fr. Bill uses "wireless 5" microphone (slider 13/14 on the sound board). He often forgets to turn it off. Be prepared to turn down the input setting.
-- Fr. Ryan uses "wireless 6" microphone (slider 15/16 on the sound board). He is very good about how he uses his microphone.
+- Fr. Bill uses the "wireless 5" microphone (slider 13/14 on the sound board). He occasionally forgets to turn it off. Be prepared to turn down the input setting.
+- Fr. Ryan uses the "wireless 6" microphone (slider 15/16 on the sound board). He is very good about how he uses his microphone.
 
-# Correct left preview screen setting
+# Set up left preview screen
 
 The correct way to set the left preview screen is:
 
@@ -460,7 +460,7 @@ If the right preview screen does not have the correct camera controls:
 
 - Click on the <span style="color:lightcoral; font-weight:bold">StreamButton</span> and click on <span style="color:lightcoral; font-weight:bold">OK</span>.
 - Click on the <span style="color:lightcoral; font-weight:bold">RecordButton</span> and click on <span style="color:lightcoral; font-weight:bold">OK</span>.
-- Close vMix. If all went well, SAVE CHANGES/green button OK. If not, DON'T SAVE/red button.
+- Close vMix. If all went well, click the green SAVE CHANGES button OK. If not, click the red DON'T SAVE button.
 
 # Presets
 
@@ -473,7 +473,7 @@ If the right preview screen does not have the correct camera controls:
 
 # Add an external camera
 
-TBD
+<span style="color: red; font-weight: bold;">TODO</span>
 
 - The DroidCam app on Android and iOS supports 1920x1080 (1080p29.97) resolution.
 
@@ -485,7 +485,7 @@ TBD
 - Navigate to the directory that will contain the video to download.
 - Execute `yt-dlp "URL"`. For example, `yt-dlp "https://www.youtube.com/watch?v=DVrs5r49TkI"` where the URL was obtained from one of the church YouTube channel. (Instructions required for this, for Windows, Mac, and Linux.)
 
-# Extracting audio, video, or both from a portion of a downloaded church video
+# Extracting audio and video from a church video
 
 - Go to [Download FFmpeg](https://www.ffmpeg.org/download.html) and download the required file. You may have to extract it. (Instructions required for this, for Windows, Mac, and Linux.)
 - FFmepg is trusted, reliable, open source software.
@@ -534,6 +534,29 @@ St. Mary's has a nonprofit [YouTube channel](https://www.youtube.com/@stmarysbon
 - In the upper right corner of the screen you should see our church icon. Click on the icon, click on <span style="color:lightcoral; font-weight:bold">Switch account</span> and ensure you are on the `St. Mary's Episcopal Church` account.
 - This should take you to the `Channel dashboard.`
 
+## Preparing for a live stream a day or more in advance
+
+- Navigate to the `Channel dashboard.`
+- There are three icons in the upper right corner. Click on the middle icon, the <span style="color:lightcoral; font-weight:bold">Go live</span> icon.
+- This should take you to the `Manage` page. If not, click on the <span style="color:lightcoral; font-weight:bold">Manage</span> icon on the left side.
+- click on the `Schedule Stream` icon on the right side of the page.
+- It will ask you if you want to `Schedule with previous settings` and has selected a previous service. This is the easiest way to set up a new service. Click on the `Reuse settings` button.
+- In the `Title (required)` window, change the date and other information as required.
+- In the `Description` window, change the information as required.
+- Click the `Next` button.
+- Click the `Next` button.
+- Change the schedule date.
+- Change the schedule time to 15 min before the service would start.
+
+## Analytics
+
+- Log into [https://studio.youtube.com](https://studio.youtube.com).
+- In the upper right corner of the screen you should see our church icon. Click on the icon, click on <span style="color:lightcoral; font-weight:bold">Switch account</span> and ensure you are on the `St. Mary's Episcopal Church` account.
+- This should take you to the `Channel dashboard.`
+- Click on <span style="color:lightcoral; font-weight:bold">Analytics</span> on the left side.
+- This should take you to the `Channel analytics.`
+- There are four clickable tabs at the top of the window: <span style="color:lightcoral; font-weight:bold">Overview</span>, <span style="color:lightcoral; font-weight:bold">Content</span>, <span style="color:lightcoral; font-weight:bold">Audience</span>, and <span style="color:lightcoral; font-weight:bold">Trends</span>.
+
 ## Uploading a video manually
 
 - Log into [https://studio.youtube.com](https://studio.youtube.com).
@@ -578,24 +601,6 @@ St. Mary's has a nonprofit [YouTube channel](https://www.youtube.com/@stmarysbon
 - Visibility: <span style="color:red; font-weight:bold">Public</span>
 - Schedule: Select a date, time, and time zone (<span style="color:red; font-weight:bold">local</span>)
 - <span style="color:lightcoral; font-weight:bold">Schedule</span>. Select a date and time.
-
-## Preparing for a live stream a day or more in advance
-
-- Log into [https://studio.youtube.com](https://studio.youtube.com).
-- In the upper right corner of the screen you should see our church icon. Click on the icon, click on <span style="color:lightcoral; font-weight:bold">Switch account</span> and ensure you are on the `St. Mary's Episcopal Church` account.
-- This should take you to the `Channel dashboard.`
-- There are three icons in the upper right corner. Click on the middle icon, the <span style="color:lightcoral; font-weight:bold">Go live</span> icon.
-- This should take you to the `Manage` page. If not, click on the <span style="color:lightcoral; font-weight:bold">Manage</span> icon on the left side.
-- tbd
-
-## Analytics
-
-- Log into [https://studio.youtube.com](https://studio.youtube.com).
-- In the upper right corner of the screen you should see our church icon. Click on the icon, click on <span style="color:lightcoral; font-weight:bold">Switch account</span> and ensure you are on the `St. Mary's Episcopal Church` account.
-- This should take you to the `Channel dashboard.`
-- Click on <span style="color:lightcoral; font-weight:bold">Analytics</span> on the left side.
-- This should take you to the `Channel analytics.`
-- There are four clickable tabs at the top of the window: <span style="color:lightcoral; font-weight:bold">Overview</span>, <span style="color:lightcoral; font-weight:bold">Content</span>, <span style="color:lightcoral; font-weight:bold">Audience</span>, and <span style="color:lightcoral; font-weight:bold">Trends</span>.
 
 # References
 
