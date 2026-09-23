@@ -1,4 +1,39 @@
 % YouTube account information
 
+# Church
+
+- user ID is wVb_oy0lQmXWX3nrCVR-4g
+- channel ID is UCwVb_oy0lQmXWX3nrCVR-4g
+- stream key is u3qe-scf6-jdd1-seuv-cvsp to be used only in VMix.
+
+# Gilles Pilon
+
 - user ID is EdYROkbubI1S_XX63tzrxA
 - channel ID is UCEdYROkbubI1S_XX63tzrxA
+- unique ID including channel ID is https://www.youtube.com/channel/UCwVb_oy0lQmXWX3nrCVR-4g
+
+# Miscellaneous
+
+https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName&directionType=ForwardList&searchNameOrder=STMARYSEPISCOPALCHURCHBONITASP%207445310&aggregateId=domnp-744531-d50a054e-0b74-4bf4-b27e-9a094f28cf8c&searchTerm=ST%20MARYS%20CHRISTIAN%20WESLEYAN&listNameOrder=STMARYSEDUCATIONALINSTITUTEATC%20F030000001140
+
+When another user creates a YouTube channel using your church’s name, it causes confusion and carries the risk of your congregation being scammed. You need to issue a formal copyright strike, report the channel for impersonation, and alert your community to the fake account.Take the following concrete steps immediately to protect your church's identity:1. Alert Your CongregationMake official announcements: Tell your members via email, your church website, and during services that this account is not official.Warn against scams: Impersonators often use the church's name and pastor’s picture to ask for money, donations, or gift cards. Explicitly state that the church will never solicit funds via YouTube comments or private messages.2. Report the Channel to YouTubeUse the Impersonation tool: Go to the fake channel's page, click the About tab, and click the Report User Flag.Select "Impersonation": Choose the option stating the channel is impersonating your organization.Provide proof: YouTube will prompt you to provide the URL of your official YouTube channel so they can compare the two.3. Submit a Copyright Takedown (If they are using your videos)If the channel is re-uploading your sermons or worship services without permission, you can file a formal Digital Millennium Copyright Act (DMCA) request:Log into YouTube Studio with your church's official Google/YouTube account.Navigate to the Copyright section on the left sidebar.Click New Removal Request and submit the URLs of the stolen videos.4. Secure Your Official PresenceEnsure your official channel is well-optimized so viewers know it's the real one:Use your official church name and establish a custom channel handle (e.g., @YourChurchName).Link your official church website and other verified social media profiles in your channel's "About" section.Ensure all your login information (email and passwords) is secured under an official Google Workspace account for your organization, rather than a personal email of a single staff member.
+
+
+These two YouTube channels should be reported:
+
+- https://www.youtube.com/@stmarysepiscopalchurchboni3993
+- https://www.youtube.com/@CharlesDBaker
+
+
+Organization Name: ST MARYS EPISCOPAL CHURCH OF BONITA SPRINGS  Issue: YouTube Nonprofit Activation Link Broken (404 Error)  Hello,  Our church has been verified and approved by Goodstack for Google for Nonprofits. However, when we try to activate the YouTube product from our dashboard, the button states "provide more details about your channel."  The dynamic link provided by the dashboard leads to a "404 Page Not Found" error, completely preventing us from submitting the required details.  Please manually link our verified nonprofit status to our official church channel.  Our Official YouTube Channel ID: UCEdYROkbubI1S_XX63tzrxA.  Thank you for your assistance in resolving this backend system glitch.
+
+This is the code to go on our WordPress worship page.
+
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/live_stream?channel=UCEdYROkbubI1S_XX63tzr"
+  frameborder="0"
+  allow="autoplay; encrypted-media"
+  allowfullscreen>
+</iframe>
