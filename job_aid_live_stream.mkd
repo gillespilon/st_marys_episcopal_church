@@ -18,14 +18,14 @@ This job aid serves to set up and be ready to live stream on our [YouTube channe
 - [Begin audio and video streaming](#begin-audio-and-video-streaming)
 - [Cameras](#cameras)
 - [Microphones](#microphones)
-- [Set up left preview screen](#set-up-left-preview-screen)
-- [Camera control for right preview](#camera-control-for-right-preview-screen)
+- [Set up the left preview screen](#set-up-the-left-preview-screen)
+- [Camera control for the right preview](#camera-control-for-the-right-preview-screen)
 - [Holy Eucharist schedule](#holy-eucharist-schedule)
 - [End the streaming and the recording](#end-the-streaming-and-the-recording)
 - [Presets](#presets)
 - [Add an external camera](#add-an-external-camera)
 - [Downloading a church video to a computer](#downloading-a-church-video-to-a-computer)
-- [Extracting audio and video from a church video](#extracting-audio-and-video-from-a-church-video
+- [Extracting audio and video from a church video](#extracting-audio-and-video-from-a-church-video)
 - [Automatic computer drive backup](#automatic-computer-drive-backup)
 - [Archiving old videos to make room on the hard drive](#archiving-old-videos-to-make-room-on-the-hard-drive)
 - [YouTube](#youtube)
@@ -96,7 +96,7 @@ This job aid serves to set up and be ready to live stream on our [YouTube channe
 
 <img src="../fot/gear_icon_eleven.png" alt="gear icon for preset 11" width="400">
 
-- In the input/output window, left column, click on <span style="color:lightcoral; font-weight:bold">PTZ</span>.
+- In the resulting window, left column, click on <span style="color:lightcoral; font-weight:bold">PTZ</span>.
 
 <img src="../fot/ptz.png" alt="select PTZ" width="400">
 
@@ -107,31 +107,34 @@ This job aid serves to set up and be ready to live stream on our [YouTube channe
 
 - The left preview window should have an amber bar. The preset 6 window should have an amber bar. The right preview window should have a green bar. The preset 11 window should have a green bar.
 
+<p style="page-break-after: always">
 # Set the recording settings
 
-<span style="color: red; font-weight: bold;">TODO</span> take photos of the various setup actions</span>
+- At the bottom, click on the <span style="color:lightcoral; font-weight:bold">GearIcon</span> next to the <span style="color:lightcoral; font-weight:bold">RecordButton</span>.
 
-- At the bottom, click on the Gear icon next to the Record button.
-
-![gear icon near Record button]()
+![gear icon near Record button](../fot/record_button_gear_icon.png)
 
 - In the pop-up window file name, change only the date in Filename.
 
-![change date in Filename]()
+![change date in Filename](../fot/record_button_filename.png)
 
-- Click OK.
+- Click the <span style="color:lightcoral; font-weight:bold">OKButton</span>.
 
 # Set the title banner
 
-<span style="color: red; font-weight: bold;">TODO</span> take photos of the various setup actions</span>
-
 - Right click anywhere in the #10 preset window.
-- Choose <span style="color:red; font-weight:bold">Title Editor</span>.
+- Click on the <span style="color:red; font-weight:bold">Title Editor Button</span>.
+
+![title editor](../fot/title_editor_button.png)
+
 - Change the date.
+
+![title editor date](../fot/title_editor_date.png)
+
 - Click the x in the upper right corner to close the window.
 - Click on the small box "1" at the bottom of the #10 preset window to turn on the overlay for the right preview window with the green bar.
 
-![overlay_on]()
+![overlay_on](../fot/overlay_on.png)
 
 # Begin audio and video streaming
 
@@ -140,7 +143,7 @@ This job aid serves to set up and be ready to live stream on our [YouTube channe
 - The FADE button is used to transition between camera 1 and camera 2.
 - The active camera is on the right with a green bar.
 - The other camera preview is on the left with an amber bar.
-- If the streaming stops for any reason, do not restart it because of how YouTube is set up. Change the file name in the record button (if it has stopped) and restart recording only, not streaming.
+- If the streaming stops for any reason, do not restart it because of how YouTube is set up. Change the file name in the record button (if it has stopped) and restart recording only, not streaming. When the service is finished and you have stopped the recording, see [uploading a video manually](#uploading-a-video-manually).
 
 # Cameras
 
@@ -152,7 +155,7 @@ This job aid serves to set up and be ready to live stream on our [YouTube channe
 - Fr. Bill uses the "wireless 5" microphone (slider 13/14 on the sound board). He occasionally forgets to turn it off. Be prepared to turn down the input setting.
 - Fr. Ryan uses the "wireless 6" microphone (slider 15/16 on the sound board). He is very good about how he uses his microphone.
 
-# Set up left preview screen
+# Set up the left preview screen
 
 The correct way to set the left preview screen is:
 
@@ -160,7 +163,7 @@ The correct way to set the left preview screen is:
 2. Click on the desired gear to control the camera
 3. Click on the desired preset
 
-# Camera control for right preview screen
+# Camera control for the right preview screen
 
 If the right preview screen does not have the correct camera controls:
 
@@ -460,7 +463,7 @@ If the right preview screen does not have the correct camera controls:
 
 - Click on the <span style="color:lightcoral; font-weight:bold">StreamButton</span> and click on <span style="color:lightcoral; font-weight:bold">OK</span>.
 - Click on the <span style="color:lightcoral; font-weight:bold">RecordButton</span> and click on <span style="color:lightcoral; font-weight:bold">OK</span>.
-- Close vMix. If all went well, click the green SAVE CHANGES button OK. If not, click the red DON'T SAVE button.
+- Close vMix by clicking on the x at the top right corner of the window. If all went well, click the green SAVE CHANGES button OK. If not, click the red DON'T SAVE button.
 
 # Presets
 
@@ -477,6 +480,7 @@ If the right preview screen does not have the correct camera controls:
 
 - The DroidCam app on Android and iOS supports 1920x1080 (1080p29.97) resolution.
 
+<p style="page-break-after: always">
 # Downloading a church video to a computer
 
 - Go to the [GitHub page for yt-dlp](https://github.com/yt-dlp/yt-dlp). Click on the link "yt-dlp.exe" under the "RELEASE FILES Recommend" section. This will download the file to your computer. It is safe to do so. yt-dlp is trusted, reliable, open source software.
@@ -520,11 +524,11 @@ Extract from mp4 video from time 00:00:00 to 00:03:24 and save as audio.
 
 # Automatic computer drive backup
 
-<span style="color:orange; font-weight:bold">Write a description and which Windows software is used for the settings.</span>
+<span style="color: red; font-weight: bold;">TODO</span> Write a description and which Windows software is used for the settings.</span>
 
 # Archiving old videos to make room on the hard drive.
 
-<span style="color:orange; font-weight:bold">Write a description of how to do this with an external USB stick.</span>
+<span style="color: red; font-weight: bold;">TODO</span> Write a description of how to do this with an external USB stick.</span>
 
 # YouTube
 
@@ -606,6 +610,7 @@ St. Mary's has a nonprofit [YouTube channel](https://www.youtube.com/@stmarysbon
 
 - [PreSonus sound board owner's manual (download)](https://www.fmicassets.com/Damroot/Original/10020/OM_StudioLive-1602-USB_061223_EN.pdf?_gl=1*tufxgx*_gcl_au*MTYwNzcxMzM3My4xNzcxMzQ0NTM1)
 - [vMix documentation](https://www.vmix.com/help29/) Check the version number used by the church.
+- This document is managed with Git and stored in a private repository on [GitHub](https://github.com/gillespilon/stmarysepiscopalchurch). For assistance please email Gilles Pilon.
 
 # Support
 
