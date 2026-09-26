@@ -1,0 +1,619 @@
+% Job aid---St. Mary's Episcopal Church---live streaming
+
+# In brevi
+
+Live streaming is the transmission of video or audio, or both, in real time or near real time to the internet. While often referred to simply as streaming, the real-time nature of live streaming differentiates it from other non live broadcast forms of streamed media such as video on demand, video logs, and video sharing platforms such as [YouTube](https://youtube.com/).
+
+St. Mary's Church Bonita Springs uses professional audio equipment, video cameras, audio mixing hardware, and various software programs to create a live stream of the Holy Eucharist in its many forms. Our videos are available on our [YouTube channel](https://www.youtube.com/@stmarysbonita).
+
+This job aid serves to set up and be ready to live stream on our [YouTube channel](https://www.youtube.com/@stmarysbonita).
+
+# Contents
+
+- [Conventions](#conventions)
+- [Turn on the equipment](#turn-on-the-equipment)
+- [Start the streaming software](#start-the-streaming-software)
+- [Set the recording settings](#set-the-recording-settings)
+- [Set the title banner](#set-the-title-banner)
+- [Begin audio and video streaming](#begin-audio-and-video-streaming)
+- [Cameras](#cameras)
+- [Microphones](#microphones)
+- [Set up the left preview screen](#set-up-the-left-preview-screen)
+- [Camera control for the right preview](#camera-control-for-the-right-preview-screen)
+- [Holy Eucharist schedule](#holy-eucharist-schedule)
+- [End the streaming and the recording](#end-the-streaming-and-the-recording)
+- [Presets](#presets)
+- [Add an external camera](#add-an-external-camera)
+- [Downloading a church video to a computer](#downloading-a-church-video-to-a-computer)
+- [Extracting audio and video from a church video](#extracting-audio-and-video-from-a-church-video)
+- [Automatic computer drive backup](#automatic-computer-drive-backup)
+- [Archiving old videos to make room on the hard drive](#archiving-old-videos-to-make-room-on-the-hard-drive)
+- [YouTube](#youtube)
+- [References](#references)
+- [Support](#support)
+
+# Conventions
+
+- <span style="color:blue; font-weight:bold">blue</span> shows text to enter
+- <span style="color:lightcoral; font-weight:bold">lightcoral</span> shows a button or icon to press, click, or hold
+    - <span style="color:lightcoral; font-weight:bold">EnterKey</span> means "press the Enter Key"
+    - <span style="color:lightcoral; font-weight:bold">ShiftKey</span> means "hold the Shift Key"
+- <span style="color:red; font-weight:bold">red</span> shows which item to select in a list
+
+# Turn on the equipment
+
+- The passcode to the equipment room is <span style="color:blue; font-weight:bold">1923</span>.
+
+## Audio cabinet
+
+- The tall cabinet in the room is the sanctuary sound control system.
+
+![audio cabinet](../fot/audio_cabinet.png)
+
+- Flick up the <span style="color:lightcoral; font-weight:bold">ToggleSwitch</span> on the outside left side of the cabinet if the system is not on.
+
+![silver toggle switch](../fot/silver_toggle_switch.png)
+
+- **Do not touch any controls inside this cabinet.**
+
+## Streaming desk
+
+- The table in front of the window contains the [PreSonus STUDIOLIVE 16.0.2 USB](https://www.presonus.com/products/studiolive-classic-1602-usb-digital-console-mixer) sound board, the monitor, headphones, keyboard, and mouse. Below the table on the left is the computer.
+
+![desk](../fot/desk.png)
+
+- Press the <span style="color:lightcoral; font-weight:bold">Power I/O Switch</span>, located on the back of the sound board on the right side.
+
+![sound board power switch](../fot/presonus_power_switch.png)
+
+- Press the <span style="color:lightcoral; font-weight:bold">Meters InputButton</span> under the meters at the far left to see the recording levels.
+
+![meters input button](../fot/meters_input_button.png)
+
+- Press the <span style="color:lightcoral; font-weight:bold">PowerButton</span> at the top on the front of the computer.
+
+![computer power button](../fot/computer_power_button.png)
+
+- Wait about 15 s for the screen. Press the <span style="color:lightcoral; font-weight:bold">EnterKey</span>.
+
+- Type the password <span style="color:#2323FF; font-weight:bold">STMsanc#1</span> and press the <span style="color:lightcoral; font-weight:bold">EnterKey</span> .
+
+![enter password](../fot/password_computer.png)
+
+# Start the streaming software
+
+- Double click the <span style="color:lightcoral; font-weight:bold">vMix (x64)</span> icon on the left side of the screen.
+- At the top of the screen, click the <span style="color:lightcoral; font-weight:bold">DownArrow</span> to the right of the <span style="color:lightcoral; font-weight:bold">OpenButton</span> and select the <span style="color:#FF0000; font-weight:bold">Preset Setup IV.vmix</span>.
+
+![select Preset Setup IV.vmix](../fot/preset_setup.png)
+
+- At the top of the screen, click the <span style="color:lightcoral; font-weight:bold">MaximizeIcon</span>, the second icon from the right. This should make everything smaller. Click and drag the window to the left edge of the screen. Resize so that the window touches the top, left, and bottom edges of the screen.
+- You should see this:
+
+![screen_after_preset_setup](../fot/preset_setup_result.png)
+
+- Click on the <span style="color:lightcoral; font-weight:bold">GearIcon</span>for preset 11.
+
+<img src="../fot/gear_icon_eleven.png" alt="gear icon for preset 11" width="400">
+
+- In the resulting window, left column, click on <span style="color:lightcoral; font-weight:bold">PTZ</span>.
+
+<img src="../fot/ptz.png" alt="select PTZ" width="400">
+
+- Resize this window as appropriate. Move this window to the right so that it does not overlap with the main window and the controls are accessbile.
+- The screen should look as follows.
+
+![screen layout ready](../fot/screen_layout_ready.png)
+
+- The left preview window should have an amber bar. The preset 6 window should have an amber bar. The right preview window should have a green bar. The preset 11 window should have a green bar.
+
+<p style="page-break-after: always">
+# Set the recording settings
+
+- At the bottom, click on the <span style="color:lightcoral; font-weight:bold">GearIcon</span> next to the <span style="color:lightcoral; font-weight:bold">RecordButton</span>.
+
+![gear icon near Record button](../fot/record_button_gear_icon.png)
+
+- In the pop-up window file name, change only the date in Filename.
+
+![change date in Filename](../fot/record_button_filename.png)
+
+- Click the <span style="color:lightcoral; font-weight:bold">OKButton</span>.
+
+# Set the title banner
+
+- Right click anywhere in the #10 preset window.
+- Click on the <span style="color:red; font-weight:bold">Title Editor Button</span>.
+
+![title editor](../fot/title_editor_button.png)
+
+- Change the date.
+
+![title editor date](../fot/title_editor_date.png)
+
+- Click the x in the upper right corner to close the window.
+- Click on the small box "1" at the bottom of the #10 preset window to turn on the overlay for the right preview window with the green bar.
+
+![overlay_on](../fot/overlay_on.png)
+
+# Begin audio and video streaming
+
+- Click on the <span style="color:red; font-weight:bold">StreamButton</span>; the button bar turns red.
+- Click on the <span style="color:red; font-weight:bold">RecordButton</span>; it will have a red STREAM2 & REC button by top preview.
+- The FADE button is used to transition between camera 1 and camera 2.
+- The active camera is on the right with a green bar.
+- The other camera preview is on the left with an amber bar.
+- If the streaming stops for any reason, do not restart it because of how YouTube is set up. Change the file name in the record button (if it has stopped) and restart recording only, not streaming. When the service is finished and you have stopped the recording, see [uploading a video manually](#uploading-a-video-manually).
+
+# Cameras
+
+- Camera 1 is at the left side of the main aisle, near the front, and points to the right lectern, the organist, and the choir.
+- Camera 2 is at the back of the church and points up the center aisle.
+
+# Microphones
+
+- Fr. Bill uses the "wireless 5" microphone (slider 13/14 on the sound board). He occasionally forgets to turn it off. Be prepared to turn down the input setting.
+- Fr. Ryan uses the "wireless 6" microphone (slider 15/16 on the sound board). He is very good about how he uses his microphone.
+
+# Set up the left preview screen
+
+The correct way to set the left preview screen is:
+
+1. Click on the left screen
+2. Click on the desired gear to control the camera
+3. Click on the desired preset
+
+# Camera control for the right preview screen
+
+If the right preview screen does not have the correct camera controls:
+
+1. Click on the right screen
+2. Click the desired gear to control the camera
+
+# Holy Eucharist schedule
+
+<table>
+<thead>
+<tr>
+<th class="left-align">Moment</th>
+<th class="center-align">Camera</th>
+<th class="left-align">Preset</th>
+<th class="center-align">Gear</th>
+<th class="left-align">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="left-align">Gathering of the People</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align">The title should be displayed.</td>
+</tr>
+<tr>
+<td class="right-align">Prelude</td>
+<td class="center-align">1</td>
+<td class="center-align">6</td>
+<td class="center-align">3</td>
+<td class="left-align"><span style="color:lightcoral; font-weight:bold">STREAM</span> and <span style="color:lightcoral; font-weight:bold">Record</span> just before the organist plays. These buttons turn red.</td>
+</tr>
+<tr>
+<td class="left-align"></td>
+<td class="right-align"></td>
+<td class="center-align"></td>
+<td class="center-align"></td>
+<td class="left-align">The organist has finished playing. <span style="color:lightcoral; font-weight:bold">FadeButton</span> to switch to camera 2.</td>
+</tr>
+<tr>
+<td class="left-align">Processional Hymn</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align">The bell rings three times. Turn off the banner by clicking on the <span style="color:lightcoral; font-weight:bold">1</span> in preset 10 .</td>
+</tr>
+<tr>
+<td class="left-align">Opening Acclamation or The Penitential Order or The Absolution</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align">Kyrie</td>
+<td class="center-align">1</td>
+<td class="center-align">6</td>
+<td class="center-align">3</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align" colspan="5">The Liturgy of the Word</td>
+</tr>
+<tr>
+<td class="left-align">Collect of the Day</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="right-align">First reading</td>
+<td class="center-align">1</td>
+<td class="center-align">6</td>
+<td class="center-align">3</td>
+<td class="left-align">Zoom in and move as required.</td>
+</tr>
+<tr>
+<td class="right-align">Psalm or Hymn</td>
+<td class="center-align">1</td>
+<td class="center-align">6</td>
+<td class="center-align">3</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="right-align">Second reading</td>
+<td class="center-align">1</td>
+<td class="center-align">6</td>
+<td class="center-align">3</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align" colspan="5">The Gospel</td>
+</tr>
+<tr>
+<td class="right-align">Gospel Acclamation</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align">Zoom in and move as required.</td>
+</tr>
+<tr>
+<td class="right-align">Gospel</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align">Zoom in and move as required.</td>
+</tr>
+<tr>
+<td class="left-align">Homily</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align">Zoom in and move as required.</td>
+</tr>
+<tr>
+<td class="left-align">Nicene Creed</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align" colspan="5">Prayers of the People</td>
+</tr>
+<tr>
+<td class="left-align">Celebrant</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align">Lector</td>
+<td class="center-align">1</td>
+<td class="center-align">6</td>
+<td class="center-align">3</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align">Celebrant</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align">Peace</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align">Announcements</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align">or 1-9-3</td>
+</tr>
+<tr>
+<td class="left-align" colspan="5">Liturgy of the Eucharist</td>
+</tr>
+<tr>
+<td class="left-align">Offertory Anthem</td>
+<td class="center-align">1</td>
+<td class="center-align">6</td>
+<td class="center-align">3</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align">At the Presentation, Doxology</td>
+<td class="center-align">1</td>
+<td class="center-align">6</td>
+<td class="center-align">3</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align">The Eucharistic Prayer</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align">Sanctus</td>
+<td class="center-align">1</td>
+<td class="center-align">6</td>
+<td class="center-align">3</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align">Prayer of Consecration</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align">Memorial Acclamation from Mass of Hope</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align">Amen from Mass of Hope</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align">The Lord's Prayer</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align">Agnus Dei, Lamb of God from Mass of Hope</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align">Invitation</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align">Prayers of Spiritual Communion</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align" colspan="5">Communion of the Faithful</td>
+</tr>
+<tr>
+<td class="right-align">Communion Anthem</td>
+<td class="center-align">1</td>
+<td class="center-align">9</td>
+<td class="center-align">3</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="right-align">Communion Hymn</td>
+<td class="center-align">1</td>
+<td class="center-align">9</td>
+<td class="center-align">3</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align">Post Communion Prayer</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align">Recessional Hymn</td>
+<td class="center-align">1</td>
+<td class="center-align">6</td>
+<td class="center-align">3</td>
+<td class="left-align"></td>
+<tr>
+<td class="left-align">Blessing</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align">Dismissal</td>
+<td class="center-align">2</td>
+<td class="center-align">11</td>
+<td class="center-align">11</td>
+<td class="left-align"></td>
+</tr>
+<tr>
+<td class="left-align">Postlude</td>
+<td class="center-align">1</td>
+<td class="center-align">6</td>
+<td class="center-align">3</td>
+<td class="left-align"></td>
+</tr>
+</tbody>
+</table>
+
+# End the streaming and the recording
+
+- Click on the <span style="color:lightcoral; font-weight:bold">StreamButton</span> and click on <span style="color:lightcoral; font-weight:bold">OK</span>.
+- Click on the <span style="color:lightcoral; font-weight:bold">RecordButton</span> and click on <span style="color:lightcoral; font-weight:bold">OK</span>.
+- Close vMix by clicking on the x at the top right corner of the window. If all went well, click the green SAVE CHANGES button OK. If not, click the red DON'T SAVE button.
+
+# Presets
+
+- #3 set-reset camera 1. Click the gear icon for #3 preset to switch control to any camera 1 preset; pan-tilt-zoom adjustments
+- #7 baptistry, left lectern wide view, camera 1. Use for the main Eucharist rite II. Zoom in for the left lectern if required.
+- #8 right lectern, camera 1. Zoom in for psalm readings and prayers for the people.
+- #9 Close-up of the communion rail, camera 1, in front of the altar,
+- #10 Title banner overlay. "Date" and "Service will start at 10:00 a.m."
+- #11 Center aisle, broad view, camera 2. Click gear #11 to switch control to camera 2; pan-tilt-zoom adjustments.
+
+# Add an external camera
+
+<span style="color: red; font-weight: bold;">TODO</span>
+
+- The DroidCam app on Android and iOS supports 1920x1080 (1080p29.97) resolution.
+
+<p style="page-break-after: always">
+# Downloading a church video to a computer
+
+- Go to the [GitHub page for yt-dlp](https://github.com/yt-dlp/yt-dlp). Click on the link "yt-dlp.exe" under the "RELEASE FILES Recommend" section. This will download the file to your computer. It is safe to do so. yt-dlp is trusted, reliable, open source software.
+- Double click the downloaded file to install it.
+- Open a "command prompt" or "PowerShell" terminal. (Instructions required for this, for Windows, Mac, and Linux.)
+- Navigate to the directory that will contain the video to download.
+- Execute `yt-dlp "URL"`. For example, `yt-dlp "https://www.youtube.com/watch?v=DVrs5r49TkI"` where the URL was obtained from one of the church YouTube channel. (Instructions required for this, for Windows, Mac, and Linux.)
+
+# Extracting audio and video from a church video
+
+- Go to [Download FFmpeg](https://www.ffmpeg.org/download.html) and download the required file. You may have to extract it. (Instructions required for this, for Windows, Mac, and Linux.)
+- FFmepg is trusted, reliable, open source software.
+- Open a "command prompt" or "PowerShell" terminal in Windows. Open a terminal in a Linux shell. (Instructions required for this, for Windows, Mac, and Linux.)
+- Navigate to the directory where your video is.
+
+## Extract audio only
+
+- Open the video in a browser and determine the start xx:xx:xx and stop yy:yy:yy positions to extract the audio portion.
+- For example, using the above video, `ffmpeg -i 20260222_st_marys_episcopal_rite_ii.mp4 -ss 00:24:00 -to 00:37:08 -vn -c:a copy 20260222_st_marys_episcopal_carl_stewardship.m4a`
+
+## Trim content
+
+extract from mp4 video from time 00:00:00 to 00:03:24 and save as video
+
+    FILE="20251221_st_marys_episcopal_rite_ii"
+    ffmpeg -i ${FILE}.mp4 -ss 00:00:00 -to 00:03:24 ${FILE}_fantasia.mp4
+
+Trim 0:00 to 5:00 from the start, 32:05 to the end, and keep everything in between.
+
+    ffmpeg -ss 00:05:00 -to 00:32:05 -i input.mp4 -c copy output.mp4
+
+Extract from mp4 video from time 00:00:00 to 00:03:24 and save as video.
+
+    FILE="20251221_st_marys_episcopal_rite_ii"
+    ffmpeg -i ${FILE}.mp4 -ss 00:00:00 -to 00:03:24 ${FILE}_fantasia.mp4
+
+Extract from mp4 video from time 00:00:00 to 00:03:24 and save as audio.
+
+    FILE="20251221_st_marys_episcopal_rite_ii"
+    ffmpeg -i ${FILE}.mp4 -ss 00:00:00 -to 00:03:24 -vn -acodec aac ${FILE}_fantasia.m4a
+
+# Automatic computer drive backup
+
+<span style="color: red; font-weight: bold;">TODO</span> Write a description and which Windows software is used for the settings.</span>
+
+# Archiving old videos to make room on the hard drive.
+
+<span style="color: red; font-weight: bold;">TODO</span> Write a description of how to do this with an external USB stick.</span>
+
+# YouTube
+
+St. Mary's has a nonprofit [YouTube channel](https://www.youtube.com/@stmarysbonita). This channel is managed by Fr. Ryan Wright, Ian Mitchell, Joanna Wragg, and Gilles Pilon. Videos are automatically saved after streaming. The [church website](https://www.stmarysbonita.org/) only shows a live stream video. All other videos are archived on the [YouTube channel](https://www.youtube.com/@stmarysbonita). Content on the channel is managed using [studio.youtube.com](https://studio.youtube.com).
+
+- Log into [https://studio.youtube.com](https://studio.youtube.com).
+- In the upper right corner of the screen you should see our church icon. Click on the icon, click on <span style="color:lightcoral; font-weight:bold">Switch account</span> and ensure you are on the `St. Mary's Episcopal Church` account.
+- This should take you to the `Channel dashboard.`
+
+## Preparing for a live stream a day or more in advance
+
+- Navigate to the `Channel dashboard.`
+- There are three icons in the upper right corner. Click on the middle icon, the <span style="color:lightcoral; font-weight:bold">Go live</span> icon.
+- This should take you to the `Manage` page. If not, click on the <span style="color:lightcoral; font-weight:bold">Manage</span> icon on the left side.
+- click on the `Schedule Stream` icon on the right side of the page.
+- It will ask you if you want to `Schedule with previous settings` and has selected a previous service. This is the easiest way to set up a new service. Click on the `Reuse settings` button.
+- In the `Title (required)` window, change the date and other information as required.
+- In the `Description` window, change the information as required.
+- Click the `Next` button.
+- Click the `Next` button.
+- Change the schedule date.
+- Change the schedule time to 15 min before the service would start.
+
+## Analytics
+
+- Log into [https://studio.youtube.com](https://studio.youtube.com).
+- In the upper right corner of the screen you should see our church icon. Click on the icon, click on <span style="color:lightcoral; font-weight:bold">Switch account</span> and ensure you are on the `St. Mary's Episcopal Church` account.
+- This should take you to the `Channel dashboard.`
+- Click on <span style="color:lightcoral; font-weight:bold">Analytics</span> on the left side.
+- This should take you to the `Channel analytics.`
+- There are four clickable tabs at the top of the window: <span style="color:lightcoral; font-weight:bold">Overview</span>, <span style="color:lightcoral; font-weight:bold">Content</span>, <span style="color:lightcoral; font-weight:bold">Audience</span>, and <span style="color:lightcoral; font-weight:bold">Trends</span>.
+
+## Uploading a video manually
+
+- Log into [https://studio.youtube.com](https://studio.youtube.com).
+- In the upper right corner of the screen you should see our church icon. Click on the icon, click on <span style="color:lightcoral; font-weight:bold">Switch account</span> and ensure you are on the `St. Mary's Episcopal Church` account.
+- This should take you to the `Channel dashboard.`
+- In the top right corner, <span style="color:lightcoral; font-weight:bold">Create</span> and <span style="color:red; font-weight:bold">Upload videos</span> and <span style="color:red; font-weight:bold">Select files</span>
+- Navigate to the file you wish to upload. Select it and <span style="color:lightcoral; font-weight:bold">Open</span>
+- Title: <span style="color:blue; font-weight:bold">May 17, 2026 10:00 Holy Eucharist Rite II</span>
+- Description: <span style="color:blue; font-weight:bold">The Seventh Sunday of Easter. The Sunday after Ascension Day.</span>
+- Thumbnail: Ignore because YouTube will generate one and it's usually acceptable. You can change this later.
+- Playlists: Select one if appropriate
+- Audience: <span style="color:red; font-weight:bold">No, it's not made for kids</span>
+- Age restriction: Ensure it is unchecked
+- <span style="color:lightcoral; font-weight:bold">Show more</span>
+- Paid promotion: Ignore
+- Altered content: <span style="color:red; font-weight:bold">No</span>
+- Collaboration: Ignore
+- Automatic chapter: <span style="color:red; font-weight:bold">Allow automatic chapters and key moments</span>
+- Automatic concepts: Ensure it is unchecked
+- Tags: Ignore
+- Video language: <span style="color:red; font-weight:bold">English (United States)</span>
+- Caption certification: Ignore
+- Recording date and location: Enter the date from the drop down calendar. Enter the location <span style="color:blue; font-weight:bold">Bonita Springs, FL</span>
+- License: <span style="color:red; font-weight:bold">Standard YouTube License</span>
+- Allow embedding: Ensure it is unchecked
+- Publish to subscriptions feed and notify subscribers: Ensure is is checked
+- Shorts remixing: Ensure <span style="color:red; font-weight:bold">Don't allow remixing</span> is checked
+- Category: <span style="color:red; font-weight:bold">People & Blogs</span>
+- Comments and rating:
+    - Comments: <span style="color:red; font-weight:bold">On</span>
+    - Moderation: <span style="color:red; font-weight:bold">Strict</span>
+    - Who can comment: <span style="color:red; font-weight:bold">Anyone</span>
+    - Sort by: <span style="color:red; font-weight:bold">Top</span>
+    - Show how many viewers like this video: Ensure it is checked
+- <span style="color:lightcoral; font-weight:bold">Next</span>
+- Add subtitles: Ignore
+- Add an end screen: TBD with a QR code
+- Add cards: Ignore
+- <span style="color:lightcoral; font-weight:bold">Next</span>
+- Checks: YouTube checks for copyright. Wait to see the result. This usually has no issues.
+- <span style="color:lightcoral; font-weight:bold">Next</span>
+- Visibility: <span style="color:red; font-weight:bold">Public</span>
+- Schedule: Select a date, time, and time zone (<span style="color:red; font-weight:bold">local</span>)
+- <span style="color:lightcoral; font-weight:bold">Schedule</span>. Select a date and time.
+
+# References
+
+- [PreSonus sound board owner's manual (download)](https://www.fmicassets.com/Damroot/Original/10020/OM_StudioLive-1602-USB_061223_EN.pdf?_gl=1*tufxgx*_gcl_au*MTYwNzcxMzM3My4xNzcxMzQ0NTM1)
+- [vMix documentation](https://www.vmix.com/help29/) Check the version number used by the church.
+- This document is managed with Git and stored in a private repository on [GitHub](https://github.com/gillespilon/stmarysepiscopalchurch). For assistance please email Gilles Pilon.
+
+# Support
+
+- Gilles Pilon | gillespilon13@gmail.com | 312-672-9407
+- backup person 1 | email | xxx-xxx-xxxx
+- backup person 2 | email | xxx-xxx-xxxx
