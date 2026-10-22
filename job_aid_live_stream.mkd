@@ -32,6 +32,7 @@ This job aid serves to set up and be ready to live stream on our [YouTube channe
 - [References](#references)
 - [Support](#support)
 
+<p style="break-after: page">
 # Conventions
 
 - <span style="color:blue; font-weight:bold">blue</span> shows text to enter
@@ -50,6 +51,7 @@ This job aid serves to set up and be ready to live stream on our [YouTube channe
 
 ![audio cabinet](../fot/audio_cabinet.png)
 
+<p style="break-after: page">
 - Flick up the <span style="color:lightcoral; font-weight:bold">ToggleSwitch</span> on the outside left side of the cabinet if the system is not on.
 
 ![silver toggle switch](../fot/silver_toggle_switch.png)
@@ -92,6 +94,7 @@ This job aid serves to set up and be ready to live stream on our [YouTube channe
 
 ![screen_after_preset_setup](../fot/preset_setup_result.png)
 
+<p style="break-after: page">
 - Click on the <span style="color:lightcoral; font-weight:bold">GearIcon</span>for preset 11.
 
 <img src="../fot/gear_icon_eleven.png" alt="gear icon for preset 11" width="400">
@@ -101,19 +104,20 @@ This job aid serves to set up and be ready to live stream on our [YouTube channe
 <img src="../fot/ptz.png" alt="select PTZ" width="400">
 
 - Resize this window as appropriate. Move this window to the right so that it does not overlap with the main window and the controls are accessbile.
+<p style="break-after: page">
 - The screen should look as follows.
 
 ![screen layout ready](../fot/screen_layout_ready.png)
 
 - The left preview window should have an amber bar. The preset 6 window should have an amber bar. The right preview window should have a green bar. The preset 11 window should have a green bar.
 
-<p style="page-break-after: always">
 # Set the recording settings
 
 - At the bottom, click on the <span style="color:lightcoral; font-weight:bold">GearIcon</span> next to the <span style="color:lightcoral; font-weight:bold">RecordButton</span>.
 
 ![gear icon near Record button](../fot/record_button_gear_icon.png)
 
+<p style="break-after: page">
 - In the pop-up window file name, change only the date in Filename.
 
 ![change date in Filename](../fot/record_button_filename.png)
@@ -127,6 +131,7 @@ This job aid serves to set up and be ready to live stream on our [YouTube channe
 
 ![title editor](../fot/title_editor_button.png)
 
+<p style="break-after: page">
 - Change the date.
 
 ![title editor date](../fot/title_editor_date.png)
@@ -459,6 +464,7 @@ If the right preview screen does not have the correct camera controls:
 </tbody>
 </table>
 
+<p style="break-after: page">
 # End the streaming and the recording
 
 - Click on the <span style="color:lightcoral; font-weight:bold">StreamButton</span> and click on <span style="color:lightcoral; font-weight:bold">OK</span>.
@@ -480,7 +486,7 @@ If the right preview screen does not have the correct camera controls:
 
 - The DroidCam app on Android and iOS supports 1920x1080 (1080p29.97) resolution.
 
-<p style="page-break-after: always">
+<p style="break-after: page">
 # Downloading a church video to a computer
 
 - Go to the [GitHub page for yt-dlp](https://github.com/yt-dlp/yt-dlp). Click on the link "yt-dlp.exe" under the "RELEASE FILES Recommend" section. This will download the file to your computer. It is safe to do so. yt-dlp is trusted, reliable, open source software.
@@ -534,7 +540,7 @@ Extract from mp4 video from time 00:00:00 to 00:03:24 and save as audio.
 
 St. Mary's has a nonprofit [YouTube channel](https://www.youtube.com/@stmarysbonita). This channel is managed by Fr. Ryan Wright, Ian Mitchell, Joanna Wragg, and Gilles Pilon. Videos are automatically saved after streaming. The [church website](https://www.stmarysbonita.org/) only shows a live stream video. All other videos are archived on the [YouTube channel](https://www.youtube.com/@stmarysbonita). Content on the channel is managed using [studio.youtube.com](https://studio.youtube.com).
 
-- Log into [https://studio.youtube.com](https://studio.youtube.com).
+- <a id="yt-login"></a>Log into the church account at [https://studio.youtube.com](https://studio.youtube.com).
 - In the upper right corner of the screen you should see our church icon. Click on the icon, click on <span style="color:lightcoral; font-weight:bold">Switch account</span> and ensure you are on the `St. Mary's Episcopal Church` account.
 - This should take you to the `Channel dashboard.`
 
@@ -551,6 +557,21 @@ St. Mary's has a nonprofit [YouTube channel](https://www.youtube.com/@stmarysbon
 - Click the `Next` button.
 - Change the schedule date.
 - Change the schedule time to 15 min before the service would start.
+
+## Creating a post
+
+- In a browser, type `studio.youtube.com`.
+- Ensure you are [logged into the church account](#yt-login).
+- In the upper right corner click on `Create` and select `Create post`.
+- This will open a new tab.
+- Find the area `Post an update to your fans` and type a title and touch the EnterKey.
+- Add text as desired, either as one paragraph of multiple paragraphs.
+- If you want to add an image, click on the `Image` icon and then click on `select from your computer`. If you want to add more images, click on the icon below the small version of your image on the left. You can add up to ten images in this manner.
+- Click on the `Post` button to post it to the church account.
+
+## Creating a short
+
+TBD
 
 ## Analytics
 
@@ -606,6 +627,7 @@ St. Mary's has a nonprofit [YouTube channel](https://www.youtube.com/@stmarysbon
 - Schedule: Select a date, time, and time zone (<span style="color:red; font-weight:bold">local</span>)
 - <span style="color:lightcoral; font-weight:bold">Schedule</span>. Select a date and time.
 
+<p style="break-after: page">
 # References
 
 - [PreSonus sound board owner's manual (download)](https://www.fmicassets.com/Damroot/Original/10020/OM_StudioLive-1602-USB_061223_EN.pdf?_gl=1*tufxgx*_gcl_au*MTYwNzcxMzM3My4xNzcxMzQ0NTM1)
