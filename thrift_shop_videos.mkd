@@ -1,0 +1,66 @@
+% Thrift Shop videos
+
+I am putting together a video for our church's YouTube channel. Here is what I have and what I want to do. Can we do this using an ffmepg script?
+
+Video 1
+
+- input1.mov recorded with an iPhone using Rode Capture and the iPhone's built-in mic
+- mute the audio
+- trim 22 seconds from the start
+- at 00:00:28 trim to the end
+- fade in for 2 seconds at the start
+- fade out at the end to the next video for 1 second
+
+Video 2
+
+- input2.mov recorded with an iPhone using Rode Capture and two wireless transmitters
+- mute both audio channels
+- use the entire video with no trimming
+- fade in for 1 second at the start
+- fade out at the end to the next video for 1 second
+
+Video 3
+
+- input3.mov recorded with an iPhone using Rode Capture and two wireless transmitters
+- mute channel 2 audio
+- trim 22 seconds from the start
+- do not trim at the end
+- fade in for 1 second
+- fade out at the end to the next video for 1 second
+
+Video 4
+
+- input4.mov recorded with an iPhone using Rode Capture and two wireless transmitters
+- mute channel 2 audio
+- trim 10 seconds from the start
+- do not trim at the end
+- fade in for 1 second at the start
+- fade out at the end for 2 seconds
+
+- video 1 is silent with a built-in silent audio track
+
+ffmpeg -y -i input1.mov -filter_complex "[0:v]trim=start=22:end=28,setpts=PTS-STARTPTS,fade=t=in:st=0:d=2,fade=t=out:st=5:d=1,fps=30[v]; anullsrc=r=48000:cl=stereo[a]" -map "[v]" -map "[a]" -c:v libx264 -pix_fmt yuv420p -c:a aac -b:a 192k -ar 48000 -shortest v1_ready.mp4
+
+- video 2 is silent with a built-in silent audio track
+
+ffmpeg -y -i input2.mov -filter_complex "[0:v]fps=30,fade=t=in:st=0:d=1,reverse,fade=t=in:st=0:d=1,reverse[v]; anullsrc=r=48000:cl=stereo[a]" -map "[v]" -map "[a]" -c:v libx264 -pix_fmt yuv420p -c:a aac -b:a 192k -ar 48000 -shortest v2_ready.mp4
+
+- video 3 has audio channel 2 muted
+
+ffmpeg -y -i input3.mov -filter_complex "[0:v]trim=start=22,setpts=PTS-STARTPTS,fps=30,fade=t=in:st=0:d=1,reverse,fade=t=in:st=0:d=1,reverse[v]; [0:a]atrim=start=22,asetpts=PTS-STARTPTS,pan=stereo|c0=c0|c1=c0,afade=t=in:st=0:d=1,areverse,afade=t=in:st=0:d=1,areverse[a]" -map "[v]" -map "[a]" -c:v libx264 -pix_fmt yuv420p -c:a aac -b:a 192k -ar 48000 v3_ready.mp4
+
+- video 4 has audio channel 2 muted
+
+ffmpeg -y -i input4.mov -filter_complex "[0:v]trim=start=10,setpts=PTS-STARTPTS,fps=30,fade=t=in:st=0:d=1,reverse,fade=t=in:st=0:d=2,reverse[v]; [0:a]atrim=start=10,asetpts=PTS-STARTPTS,pan=stereo|c0=c0|c1=c0,afade=t=in:st=0:d=1,areverse,afade=t=in:st=0:d=2,areverse[a]" -map "[v]" -map "[a]" -c:v libx264 -pix_fmt yuv420p -c:a aac -b:a 192k -ar 48000 v4_ready.mp4
+
+inputs.txt:
+
+file 'v1_ready.mp4'
+file 'v2_ready.mp4'
+file 'v3_ready.mp4'
+file 'v4_ready.mp4'
+
+Now run this in shell:
+
+ffmpeg -y -f concat -safe 0 -i inputs.txt -c:v libx264 -pix_fmt yuv420p -preset medium -c:a aac -b:a 192k church_youtube_output.mp4
+
