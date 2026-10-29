@@ -544,6 +544,12 @@ St. Mary's has a nonprofit [YouTube channel](https://www.youtube.com/@stmarysbon
 - In the upper right corner of the screen you should see our church icon. Click on the icon, click on <span style="color:lightcoral; font-weight:bold">Switch account</span> and ensure you are on the `St. Mary's Episcopal Church` account.
 - This should take you to the `Channel dashboard.`
 
+## Church account information
+
+- user ID: wVb_oy0lQmXWX3nrCVR-4g
+- channel ID: UCwVb_oy0lQmXWX3nrCVR-4g
+- stream key: u3qe-scf6-jdd1-seuv-cvsp to be used only in VMix.
+
 ## Preparing for a live stream a day or more in advance
 
 - Navigate to the `Channel dashboard.`
@@ -571,7 +577,22 @@ St. Mary's has a nonprofit [YouTube channel](https://www.youtube.com/@stmarysbon
 
 ## Creating a short
 
+<<<<<<< HEAD:fol/job_aid_live_stream.mkd
+- In a browser, locate the church video you wish to use to create a short.
+- Download the video to your downloads folder.
+- View the video to determine the starting and ending points of the short.
+- Extract the short from the video and save it to your downloads folder.
+- In a browser, type `studio.youtube.com`.
+- Ensure you are [logged into the church account](#yt-login).
+- In the upper right corner click on `Create` and select `Upload videos`.
+- This will open a new tab.
+- Click on `Select files`.
+- Locate the short, click on it, and click on `Open`.
+- Fill in the various fields. In `Playlists`, select `Shorts`. Click on `Next` and complete all of the fields.
+- Finally, click on `Publish`.
+=======
 TBD
+>>>>>>> refs/remotes/github/main:job_aid_live_stream.mkd
 
 ## Analytics
 
